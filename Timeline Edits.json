@@ -1,0 +1,2143 @@
+{
+  "timelineEdits": [{
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456603,
+            "lngE7": -802473513
+          },
+          "accuracyMm": 100000,
+          "altitudeMeters": -23.0,
+          "source": "WIFI",
+          "timestamp": "2024-05-27T15:06:16.283Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T15:08:32.241Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "activityRecord": {
+          "detectedActivities": [{
+            "activityType": "STILL",
+            "probability": 1.0
+          }],
+          "timestamp": "2024-05-27T14:57:19.703Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T15:08:32.241Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "activityRecord": {
+          "detectedActivities": [{
+            "activityType": "TILTING",
+            "probability": 1.0
+          }],
+          "timestamp": "2024-05-27T14:57:16.891Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T15:08:32.241Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "activityRecord": {
+          "detectedActivities": [{
+            "activityType": "STILL",
+            "probability": 0.98
+          }, {
+            "activityType": "UNKNOWN",
+            "probability": 0.02
+          }],
+          "timestamp": "2024-05-27T14:56:20.172Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T15:08:32.241Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "activityRecord": {
+          "detectedActivities": [{
+            "activityType": "TILTING",
+            "probability": 1.0
+          }],
+          "timestamp": "2024-05-27T12:44:34.808Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T15:08:32.241Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "-1074332895",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258458793,
+            "lngE7": -802329272
+          },
+          "accuracyMm": 11000,
+          "altitudeMeters": -23.0,
+          "source": "WIFI",
+          "timestamp": "2024-05-27T04:43:50.758Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:43:55.149Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "-1074332895",
+    "rawSignal": {
+      "signal": {
+        "wifiScan": {
+          "deliveryTime": "2024-05-27T04:43:50.758Z",
+          "devices": [{
+            "mac": "271354629368941",
+            "rawRssi": -40
+          }, {
+            "mac": "253762711759981",
+            "rawRssi": -44
+          }, {
+            "mac": "258160758271085",
+            "rawRssi": -44
+          }, {
+            "mac": "244966618737773",
+            "rawRssi": -44
+          }, {
+            "mac": "271354897804397",
+            "rawRssi": -47
+          }, {
+            "mac": "247165641993325",
+            "rawRssi": -47
+          }, {
+            "mac": "260322306448516",
+            "rawRssi": -71
+          }, {
+            "mac": "194345641878333",
+            "rawRssi": -76
+          }, {
+            "mac": "260322306448520",
+            "rawRssi": -82
+          }, {
+            "mac": "194345642009405",
+            "rawRssi": -83
+          }],
+          "source": "ACTIVE_SCAN"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:43:55.149Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "-1074332895",
+    "rawSignal": {
+      "signal": {
+        "activityRecord": {
+          "detectedActivities": [{
+            "activityType": "STILL",
+            "probability": 0.49
+          }, {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.19
+          }, {
+            "activityType": "IN_ROAD_VEHICLE",
+            "probability": 0.19
+          }, {
+            "activityType": "IN_ROAD_VEHICLE",
+            "probability": 0.19
+          }, {
+            "activityType": "ON_FOOT",
+            "probability": 0.13
+          }, {
+            "activityType": "WALKING",
+            "probability": 0.13
+          }, {
+            "activityType": "IN_RAIL_VEHICLE",
+            "probability": 0.13
+          }, {
+            "activityType": "ON_BICYCLE",
+            "probability": 0.03
+          }, {
+            "activityType": "UNKNOWN",
+            "probability": 0.02
+          }, {
+            "activityType": "RUNNING",
+            "probability": 0.01
+          }],
+          "timestamp": "2024-05-27T04:43:17.595Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:43:55.149Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "-1074332895",
+    "rawSignal": {
+      "signal": {
+        "activityRecord": {
+          "detectedActivities": [{
+            "activityType": "TILTING",
+            "probability": 1.0
+          }],
+          "timestamp": "2024-05-27T04:42:52.868Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:43:55.149Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "-1074332895",
+    "rawSignal": {
+      "signal": {
+        "activityRecord": {
+          "detectedActivities": [{
+            "activityType": "STILL",
+            "probability": 0.5
+          }, {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.2
+          }, {
+            "activityType": "IN_ROAD_VEHICLE",
+            "probability": 0.2
+          }, {
+            "activityType": "IN_ROAD_VEHICLE",
+            "probability": 0.2
+          }, {
+            "activityType": "IN_RAIL_VEHICLE",
+            "probability": 0.19
+          }, {
+            "activityType": "ON_FOOT",
+            "probability": 0.08
+          }, {
+            "activityType": "WALKING",
+            "probability": 0.08
+          }, {
+            "activityType": "UNKNOWN",
+            "probability": 0.02
+          }, {
+            "activityType": "ON_BICYCLE",
+            "probability": 0.01
+          }],
+          "timestamp": "2024-05-27T04:41:54.168Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:43:55.149Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "-1074332895",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258458675,
+            "lngE7": -802330407
+          },
+          "accuracyMm": 39000,
+          "source": "WIFI_ONLY",
+          "timestamp": "2024-05-27T04:41:51.357Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:43:55.149Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "-1074332895",
+    "rawSignal": {
+      "signal": {
+        "wifiScan": {
+          "deliveryTime": "2024-05-27T04:41:51.357Z",
+          "devices": [{
+            "mac": "271354897804397",
+            "rawRssi": -52
+          }, {
+            "mac": "249364396813421",
+            "rawRssi": -54
+          }, {
+            "mac": "271354629368941",
+            "rawRssi": -55
+          }, {
+            "mac": "253762443324525",
+            "rawRssi": -55
+          }, {
+            "mac": "258160489835629",
+            "rawRssi": -55
+          }, {
+            "mac": "262558536346733",
+            "rawRssi": -55
+          }, {
+            "mac": "266956582857837",
+            "rawRssi": -55
+          }, {
+            "mac": "275752675880045",
+            "rawRssi": -55
+          }, {
+            "mac": "280150722391149",
+            "rawRssi": -55
+          }, {
+            "mac": "214180024724589",
+            "rawRssi": -55
+          }, {
+            "mac": "244966350302317",
+            "rawRssi": -55
+          }, {
+            "mac": "194345641878333",
+            "rawRssi": -74
+          }, {
+            "mac": "260322306448520",
+            "rawRssi": -87
+          }, {
+            "mac": "194345642009405",
+            "rawRssi": -87
+          }],
+          "source": "PASSIVE_SCAN"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:43:55.149Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "-1074332895",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258458744,
+            "lngE7": -802329781
+          },
+          "accuracyMm": 372000,
+          "altitudeMeters": -23.0,
+          "source": "WIFI",
+          "timestamp": "2024-05-27T04:41:50.725Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:43:55.149Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "-1074332895",
+    "rawSignal": {
+      "signal": {
+        "activityRecord": {
+          "detectedActivities": [{
+            "activityType": "TILTING",
+            "probability": 1.0
+          }],
+          "timestamp": "2024-05-27T04:41:40.704Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:43:55.149Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "-1074332895",
+    "rawSignal": {
+      "signal": {
+        "activityRecord": {
+          "detectedActivities": [{
+            "activityType": "UNKNOWN",
+            "probability": 0.4
+          }, {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.1
+          }, {
+            "activityType": "ON_BICYCLE",
+            "probability": 0.1
+          }, {
+            "activityType": "ON_FOOT",
+            "probability": 0.1
+          }, {
+            "activityType": "WALKING",
+            "probability": 0.1
+          }, {
+            "activityType": "RUNNING",
+            "probability": 0.1
+          }, {
+            "activityType": "STILL",
+            "probability": 0.1
+          }, {
+            "activityType": "IN_ROAD_VEHICLE",
+            "probability": 0.1
+          }, {
+            "activityType": "IN_RAIL_VEHICLE",
+            "probability": 0.1
+          }, {
+            "activityType": "IN_ROAD_VEHICLE",
+            "probability": 0.1
+          }],
+          "timestamp": "2024-05-27T04:40:53.276Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:43:55.149Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "-1074332895",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258458739,
+            "lngE7": -802329357
+          },
+          "accuracyMm": 12000,
+          "source": "WIFI_ONLY",
+          "timestamp": "2024-05-27T04:39:50.730Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:43:55.149Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "-1074332895",
+    "rawSignal": {
+      "signal": {
+        "wifiScan": {
+          "deliveryTime": "2024-05-27T04:39:50.730Z",
+          "devices": [{
+            "mac": "271354629368941",
+            "rawRssi": -37
+          }, {
+            "mac": "249364396813421",
+            "rawRssi": -37
+          }, {
+            "mac": "253762443324525",
+            "rawRssi": -37
+          }, {
+            "mac": "258160489835629",
+            "rawRssi": -37
+          }, {
+            "mac": "262558536346733",
+            "rawRssi": -37
+          }, {
+            "mac": "266956582857837",
+            "rawRssi": -37
+          }, {
+            "mac": "275752675880045",
+            "rawRssi": -37
+          }, {
+            "mac": "280150722391149",
+            "rawRssi": -37
+          }, {
+            "mac": "214180024724589",
+            "rawRssi": -37
+          }, {
+            "mac": "244966350302317",
+            "rawRssi": -37
+          }, {
+            "mac": "271354897804397",
+            "rawRssi": -41
+          }, {
+            "mac": "247165641993325",
+            "rawRssi": -41
+          }, {
+            "mac": "253762711759981",
+            "rawRssi": -41
+          }, {
+            "mac": "258160758271085",
+            "rawRssi": -41
+          }, {
+            "mac": "244966618737773",
+            "rawRssi": -41
+          }, {
+            "mac": "260322306448520",
+            "rawRssi": -75
+          }, {
+            "mac": "194345641878333",
+            "rawRssi": -75
+          }, {
+            "mac": "194345642009405",
+            "rawRssi": -76
+          }, {
+            "mac": "103165089096",
+            "rawRssi": -77
+          }, {
+            "mac": "260322306052820",
+            "rawRssi": -97
+          }],
+          "source": "PASSIVE_SCAN"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:43:55.149Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "-1074332895",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258458744,
+            "lngE7": -802329781
+          },
+          "accuracyMm": 192000,
+          "altitudeMeters": -23.0,
+          "source": "WIFI",
+          "timestamp": "2024-05-27T04:39:50.695Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:43:55.149Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "-1074332895",
+    "rawSignal": {
+      "signal": {
+        "activityRecord": {
+          "detectedActivities": [{
+            "activityType": "UNKNOWN",
+            "probability": 0.4
+          }, {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.1
+          }, {
+            "activityType": "ON_BICYCLE",
+            "probability": 0.1
+          }, {
+            "activityType": "ON_FOOT",
+            "probability": 0.1
+          }, {
+            "activityType": "WALKING",
+            "probability": 0.1
+          }, {
+            "activityType": "RUNNING",
+            "probability": 0.1
+          }, {
+            "activityType": "STILL",
+            "probability": 0.1
+          }, {
+            "activityType": "IN_ROAD_VEHICLE",
+            "probability": 0.1
+          }, {
+            "activityType": "IN_RAIL_VEHICLE",
+            "probability": 0.1
+          }, {
+            "activityType": "IN_ROAD_VEHICLE",
+            "probability": 0.1
+          }],
+          "timestamp": "2024-05-27T04:39:29.965Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:43:55.149Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "-1074332895",
+    "rawSignal": {
+      "signal": {
+        "activityRecord": {
+          "detectedActivities": [{
+            "activityType": "UNKNOWN",
+            "probability": 0.4
+          }, {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.1
+          }, {
+            "activityType": "ON_BICYCLE",
+            "probability": 0.1
+          }, {
+            "activityType": "ON_FOOT",
+            "probability": 0.1
+          }, {
+            "activityType": "WALKING",
+            "probability": 0.1
+          }, {
+            "activityType": "RUNNING",
+            "probability": 0.1
+          }, {
+            "activityType": "STILL",
+            "probability": 0.1
+          }, {
+            "activityType": "IN_ROAD_VEHICLE",
+            "probability": 0.1
+          }, {
+            "activityType": "IN_RAIL_VEHICLE",
+            "probability": 0.1
+          }, {
+            "activityType": "IN_ROAD_VEHICLE",
+            "probability": 0.1
+          }],
+          "timestamp": "2024-05-27T04:38:06.635Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:43:55.149Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "-1074332895",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258458744,
+            "lngE7": -802329781
+          },
+          "accuracyMm": 11000,
+          "altitudeMeters": -23.0,
+          "source": "WIFI",
+          "timestamp": "2024-05-27T04:37:49.897Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:43:55.149Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "-1074332895",
+    "rawSignal": {
+      "signal": {
+        "wifiScan": {
+          "deliveryTime": "2024-05-27T04:37:49.897Z",
+          "devices": [{
+            "mac": "271354629368941",
+            "rawRssi": -37
+          }, {
+            "mac": "271354897804397",
+            "rawRssi": -37
+          }, {
+            "mac": "247165641993325",
+            "rawRssi": -37
+          }, {
+            "mac": "253762711759981",
+            "rawRssi": -37
+          }, {
+            "mac": "258160758271085",
+            "rawRssi": -37
+          }, {
+            "mac": "244966618737773",
+            "rawRssi": -37
+          }, {
+            "mac": "194345641878333",
+            "rawRssi": -73
+          }, {
+            "mac": "194345642009405",
+            "rawRssi": -83
+          }, {
+            "mac": "260322306448520",
+            "rawRssi": -84
+          }],
+          "source": "ACTIVE_SCAN"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:43:55.149Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "-1074332895",
+    "rawSignal": {
+      "signal": {
+        "activityRecord": {
+          "detectedActivities": [{
+            "activityType": "UNKNOWN",
+            "probability": 0.4
+          }, {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.1
+          }, {
+            "activityType": "ON_BICYCLE",
+            "probability": 0.1
+          }, {
+            "activityType": "ON_FOOT",
+            "probability": 0.1
+          }, {
+            "activityType": "WALKING",
+            "probability": 0.1
+          }, {
+            "activityType": "RUNNING",
+            "probability": 0.1
+          }, {
+            "activityType": "STILL",
+            "probability": 0.1
+          }, {
+            "activityType": "IN_ROAD_VEHICLE",
+            "probability": 0.1
+          }, {
+            "activityType": "IN_RAIL_VEHICLE",
+            "probability": 0.1
+          }, {
+            "activityType": "IN_ROAD_VEHICLE",
+            "probability": 0.1
+          }],
+          "timestamp": "2024-05-27T04:36:39.516Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:43:55.149Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "0",
+    "userEditedSemanticSegment": {
+      "startTime": "2024-05-27T04:36:38.214Z",
+      "endTime": "2024-05-27T04:43:50.758Z",
+      "startTimeTimezoneUtcOffsetMinutes": -240,
+      "endTimeTimezoneUtcOffsetMinutes": -240,
+      "segment": {
+        "visit": {
+          "hierarchyLevel": 0,
+          "probability": 1.0,
+          "topCandidate": {
+            "placeId": "ChIJJceyOxSx2YgRFXWNGL9DCiI",
+            "semanticType": "SEARCHED_ADDRESS",
+            "probability": 1.0,
+            "placeLocation": {
+              "latE7": 258326222,
+              "lngE7": -802144787
+            }
+          }
+        }
+      }
+    }
+  }, {
+    "deviceId": "-1074332895",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258458849,
+            "lngE7": -802329598
+          },
+          "accuracyMm": 11000,
+          "altitudeMeters": -23.0,
+          "source": "UNKNOWN",
+          "timestamp": "2024-05-27T04:36:38.214Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:43:55.149Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "-1074332895",
+    "rawSignal": {
+      "signal": {
+        "activityRecord": {
+          "detectedActivities": [{
+            "activityType": "TILTING",
+            "probability": 1.0
+          }],
+          "timestamp": "2024-05-27T04:36:23.928Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:43:55.149Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456603,
+            "lngE7": -802473513
+          },
+          "accuracyMm": 100000,
+          "altitudeMeters": -23.0,
+          "source": "WIFI",
+          "timestamp": "2024-05-27T04:14:49.691Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:14:51.559Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456927,
+            "lngE7": -802473509
+          },
+          "accuracyMm": 16000,
+          "source": "WIFI_ONLY",
+          "timestamp": "2024-05-27T03:14:47.217Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:14:51.559Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "wifiScan": {
+          "deliveryTime": "2024-05-27T03:14:47.217Z",
+          "devices": [{
+            "mac": "185369941533904",
+            "rawRssi": -46
+          }, {
+            "mac": "93123537787352",
+            "rawRssi": -59
+          }, {
+            "mac": "236266941707113",
+            "rawRssi": -64
+          }, {
+            "mac": "203019706990128",
+            "rawRssi": -66
+          }, {
+            "mac": "93123537787360",
+            "rawRssi": -71
+          }, {
+            "mac": "99720607554016",
+            "rawRssi": -71
+          }, {
+            "mac": "104118654065120",
+            "rawRssi": -71
+          }, {
+            "mac": "234070536052428",
+            "rawRssi": -86
+          }, {
+            "mac": "72635442774524",
+            "rawRssi": -87
+          }, {
+            "mac": "72635442774526",
+            "rawRssi": -88
+          }],
+          "source": "PASSIVE_SCAN"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:14:51.559Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456455,
+            "lngE7": -802473445
+          },
+          "accuracyMm": 100000,
+          "altitudeMeters": -23.0,
+          "source": "WIFI",
+          "timestamp": "2024-05-27T03:14:41.645Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:14:51.559Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456455,
+            "lngE7": -802473445
+          },
+          "accuracyMm": 100000,
+          "altitudeMeters": -23.0,
+          "source": "WIFI",
+          "timestamp": "2024-05-27T02:40:57.058Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:14:51.559Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456455,
+            "lngE7": -802473445
+          },
+          "accuracyMm": 100000,
+          "altitudeMeters": -23.0,
+          "source": "WIFI",
+          "timestamp": "2024-05-27T02:30:57.025Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T04:14:51.559Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456455,
+            "lngE7": -802473445
+          },
+          "accuracyMm": 100000,
+          "altitudeMeters": -23.0,
+          "source": "WIFI",
+          "timestamp": "2024-05-27T02:20:56.884Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T02:21:04.644Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456455,
+            "lngE7": -802473445
+          },
+          "accuracyMm": 100000,
+          "altitudeMeters": -23.0,
+          "source": "WIFI",
+          "timestamp": "2024-05-27T02:10:56.827Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T02:21:04.644Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456455,
+            "lngE7": -802473445
+          },
+          "accuracyMm": 100000,
+          "altitudeMeters": -23.0,
+          "source": "WIFI",
+          "timestamp": "2024-05-27T02:00:56.587Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T02:21:04.644Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456455,
+            "lngE7": -802473445
+          },
+          "accuracyMm": 100000,
+          "altitudeMeters": -23.0,
+          "source": "WIFI",
+          "timestamp": "2024-05-27T01:50:56.355Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T02:21:04.644Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456455,
+            "lngE7": -802473445
+          },
+          "accuracyMm": 100000,
+          "altitudeMeters": -23.0,
+          "source": "WIFI",
+          "timestamp": "2024-05-27T01:40:56.165Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T02:21:04.644Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258457127,
+            "lngE7": -802473502
+          },
+          "accuracyMm": 16000,
+          "source": "WIFI_ONLY",
+          "timestamp": "2024-05-27T01:37:32.023Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T02:21:04.644Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "wifiScan": {
+          "deliveryTime": "2024-05-27T01:37:32.023Z",
+          "devices": [{
+            "mac": "185369941533907",
+            "rawRssi": -34
+          }, {
+            "mac": "185369941533904",
+            "rawRssi": -43
+          }, {
+            "mac": "93123537787352",
+            "rawRssi": -64
+          }, {
+            "mac": "236266941707113",
+            "rawRssi": -66
+          }, {
+            "mac": "203019706990128",
+            "rawRssi": -67
+          }, {
+            "mac": "93123537787360",
+            "rawRssi": -71
+          }, {
+            "mac": "99720607554016",
+            "rawRssi": -71
+          }, {
+            "mac": "104118654065120",
+            "rawRssi": -71
+          }],
+          "source": "PASSIVE_SCAN"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T02:21:04.644Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456455,
+            "lngE7": -802473445
+          },
+          "accuracyMm": 100000,
+          "altitudeMeters": -23.0,
+          "source": "WIFI",
+          "timestamp": "2024-05-27T01:30:55.961Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T02:21:04.644Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456455,
+            "lngE7": -802473445
+          },
+          "accuracyMm": 14000,
+          "altitudeMeters": -23.0,
+          "source": "WIFI",
+          "timestamp": "2024-05-27T01:20:55.954Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "wifiScan": {
+          "deliveryTime": "2024-05-27T01:20:55.954Z",
+          "devices": [{
+            "mac": "185369941533907",
+            "rawRssi": -38
+          }, {
+            "mac": "185369941533904",
+            "rawRssi": -49
+          }, {
+            "mac": "108051567524781",
+            "rawRssi": -60
+          }, {
+            "mac": "93123537787352",
+            "rawRssi": -62
+          }, {
+            "mac": "93123537787360",
+            "rawRssi": -66
+          }, {
+            "mac": "99720607554016",
+            "rawRssi": -66
+          }, {
+            "mac": "104118654065120",
+            "rawRssi": -66
+          }, {
+            "mac": "203019706990129",
+            "rawRssi": -90
+          }, {
+            "mac": "205218730769973",
+            "rawRssi": -90
+          }, {
+            "mac": "205218730769971",
+            "rawRssi": -91
+          }],
+          "source": "ACTIVE_SCAN"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "activityRecord": {
+          "detectedActivities": [{
+            "activityType": "STILL",
+            "probability": 1.0
+          }],
+          "timestamp": "2024-05-27T01:20:55.088Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456717,
+            "lngE7": -802473433
+          },
+          "accuracyMm": 2000,
+          "altitudeMeters": -1.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:19:01.950Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456983,
+            "lngE7": -802473383
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -23.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:18:40.950Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456917,
+            "lngE7": -802473050
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -3.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:18:12.949Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456917,
+            "lngE7": -802473050
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -3.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:17:44.949Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456917,
+            "lngE7": -802473050
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -3.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:17:16.950Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456917,
+            "lngE7": -802473050
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -3.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:16:48.949Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456917,
+            "lngE7": -802473050
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -3.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:16:20.950Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456917,
+            "lngE7": -802473050
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -3.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:15:52.951Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456917,
+            "lngE7": -802473050
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -3.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:15:24.951Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456917,
+            "lngE7": -802473050
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -3.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:14:56.951Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456917,
+            "lngE7": -802473050
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -3.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:14:28.950Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456917,
+            "lngE7": -802473050
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -3.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:14:00.951Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456917,
+            "lngE7": -802473050
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -3.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:13:32.951Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456917,
+            "lngE7": -802473050
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -3.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:13:04.950Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456917,
+            "lngE7": -802473050
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -3.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:12:36.951Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258457117,
+            "lngE7": -802472900
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -23.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:12:08.950Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258457195,
+            "lngE7": -802473848
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -23.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:11:40.950Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258457050,
+            "lngE7": -802473567
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -23.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:11:12.951Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456622,
+            "lngE7": -802473528
+          },
+          "accuracyMm": 17000,
+          "source": "WIFI_ONLY",
+          "timestamp": "2024-05-27T01:11:12.866Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "wifiScan": {
+          "deliveryTime": "2024-05-27T01:11:12.866Z",
+          "devices": [{
+            "mac": "185369941533904",
+            "rawRssi": -55
+          }, {
+            "mac": "93123537787352",
+            "rawRssi": -64
+          }, {
+            "mac": "93123537787360",
+            "rawRssi": -65
+          }, {
+            "mac": "99720607554016",
+            "rawRssi": -65
+          }, {
+            "mac": "104118654065120",
+            "rawRssi": -65
+          }, {
+            "mac": "203019706990128",
+            "rawRssi": -70
+          }, {
+            "mac": "205218730769973",
+            "rawRssi": -88
+          }, {
+            "mac": "203019706990129",
+            "rawRssi": -89
+          }, {
+            "mac": "72635443233272",
+            "rawRssi": -89
+          }, {
+            "mac": "205218730769971",
+            "rawRssi": -90
+          }, {
+            "mac": "72635443233276",
+            "rawRssi": -90
+          }, {
+            "mac": "72635443233277",
+            "rawRssi": -90
+          }, {
+            "mac": "72635443233278",
+            "rawRssi": -90
+          }, {
+            "mac": "72635443233279",
+            "rawRssi": -90
+          }, {
+            "mac": "72635443233274",
+            "rawRssi": -91
+          }],
+          "source": "PASSIVE_SCAN"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456954,
+            "lngE7": -802473457
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -23.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:10:58.951Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:10:59.716Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258457117,
+            "lngE7": -802473467
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -23.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:10:55.951Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:10:59.365Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258457210,
+            "lngE7": -802473376
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -23.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:10:54.951Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:10:57.894Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258457136,
+            "lngE7": -802473458
+          },
+          "accuracyMm": 20000,
+          "source": "WIFI_ONLY",
+          "timestamp": "2024-05-27T01:10:38.728Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "wifiScan": {
+          "deliveryTime": "2024-05-27T01:10:38.728Z",
+          "devices": [{
+            "mac": "185369941533904",
+            "rawRssi": -39
+          }, {
+            "mac": "93123537787352",
+            "rawRssi": -67
+          }, {
+            "mac": "93123537787360",
+            "rawRssi": -68
+          }, {
+            "mac": "99720607554016",
+            "rawRssi": -68
+          }, {
+            "mac": "104118654065120",
+            "rawRssi": -68
+          }, {
+            "mac": "205218730769971",
+            "rawRssi": -88
+          }, {
+            "mac": "205218730769973",
+            "rawRssi": -89
+          }],
+          "source": "PASSIVE_SCAN"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258457050,
+            "lngE7": -802473500
+          },
+          "accuracyMm": 10000,
+          "altitudeMeters": -23.0,
+          "source": "UNKNOWN",
+          "timestamp": "2024-05-27T01:10:38.670Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:10:57.424Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456717,
+            "lngE7": -802473283
+          },
+          "accuracyMm": 2000,
+          "altitudeMeters": -23.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:07:43.954Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:10:57.424Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456767,
+            "lngE7": -802473250
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -23.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:07:15.953Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:10:57.424Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258457216,
+            "lngE7": -802473479
+          },
+          "accuracyMm": 15000,
+          "source": "WIFI_ONLY",
+          "timestamp": "2024-05-27T01:07:15.019Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "wifiScan": {
+          "deliveryTime": "2024-05-27T01:07:15.019Z",
+          "devices": [{
+            "mac": "185369941533904",
+            "rawRssi": -40
+          }, {
+            "mac": "93123537787352",
+            "rawRssi": -64
+          }, {
+            "mac": "93123537787360",
+            "rawRssi": -68
+          }, {
+            "mac": "99720607554016",
+            "rawRssi": -68
+          }, {
+            "mac": "104118654065120",
+            "rawRssi": -68
+          }, {
+            "mac": "275220114061167",
+            "rawRssi": -68
+          }, {
+            "mac": "203019706990128",
+            "rawRssi": -71
+          }, {
+            "mac": "363725925803",
+            "rawRssi": -75
+          }, {
+            "mac": "2233961349115",
+            "rawRssi": -84
+          }, {
+            "mac": "24934559929076",
+            "rawRssi": -87
+          }, {
+            "mac": "234070536052428",
+            "rawRssi": -89
+          }, {
+            "mac": "269254830347247",
+            "rawRssi": -94
+          }],
+          "source": "PASSIVE_SCAN"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456767,
+            "lngE7": -802473250
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -11.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:06:47.954Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:10:57.424Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258457137,
+            "lngE7": -802473479
+          },
+          "accuracyMm": 15000,
+          "source": "WIFI_ONLY",
+          "timestamp": "2024-05-27T01:06:37.965Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "wifiScan": {
+          "deliveryTime": "2024-05-27T01:06:37.965Z",
+          "devices": [{
+            "mac": "185369941533904",
+            "rawRssi": -40
+          }, {
+            "mac": "93123537787352",
+            "rawRssi": -64
+          }, {
+            "mac": "93123537787360",
+            "rawRssi": -67
+          }, {
+            "mac": "99720607554016",
+            "rawRssi": -67
+          }, {
+            "mac": "104118654065120",
+            "rawRssi": -67
+          }, {
+            "mac": "203019706990128",
+            "rawRssi": -72
+          }, {
+            "mac": "72635442774521",
+            "rawRssi": -92
+          }],
+          "source": "PASSIVE_SCAN"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "activityRecord": {
+          "detectedActivities": [{
+            "activityType": "STILL",
+            "probability": 1.0
+          }],
+          "timestamp": "2024-05-27T01:06:34.178Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:10:57.424Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456761,
+            "lngE7": -802473273
+          },
+          "accuracyMm": 3000,
+          "altitudeMeters": -8.0,
+          "source": "GPS",
+          "timestamp": "2024-05-27T01:06:27.954Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:10:57.424Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258457120,
+            "lngE7": -802473483
+          },
+          "accuracyMm": 16000,
+          "source": "WIFI_ONLY",
+          "timestamp": "2024-05-27T01:06:22.220Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "wifiScan": {
+          "deliveryTime": "2024-05-27T01:06:22.220Z",
+          "devices": [{
+            "mac": "185369941533907",
+            "rawRssi": -36
+          }, {
+            "mac": "185369941533904",
+            "rawRssi": -39
+          }, {
+            "mac": "93123537787352",
+            "rawRssi": -63
+          }, {
+            "mac": "93123537787360",
+            "rawRssi": -69
+          }, {
+            "mac": "99720607554016",
+            "rawRssi": -69
+          }, {
+            "mac": "104118654065120",
+            "rawRssi": -69
+          }, {
+            "mac": "203019706990128",
+            "rawRssi": -71
+          }, {
+            "mac": "72635442774521",
+            "rawRssi": -92
+          }],
+          "source": "PASSIVE_SCAN"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258456901,
+            "lngE7": -802473177
+          },
+          "accuracyMm": 6000,
+          "altitudeMeters": -13.0,
+          "source": "UNKNOWN",
+          "timestamp": "2024-05-27T01:06:11.954Z",
+          "speedMetersPerSecond": 0.0
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:10:57.424Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "position": {
+          "point": {
+            "latE7": 258457158,
+            "lngE7": -802473497
+          },
+          "accuracyMm": 20000,
+          "source": "WIFI_ONLY",
+          "timestamp": "2024-05-27T01:05:56.068Z"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }, {
+    "deviceId": "547195445",
+    "rawSignal": {
+      "signal": {
+        "wifiScan": {
+          "deliveryTime": "2024-05-27T01:05:56.068Z",
+          "devices": [{
+            "mac": "185369941533907",
+            "rawRssi": -36
+          }, {
+            "mac": "185369941533904",
+            "rawRssi": -40
+          }, {
+            "mac": "99720607554016",
+            "rawRssi": -67
+          }, {
+            "mac": "93123537787360",
+            "rawRssi": -68
+          }, {
+            "mac": "104118654065120",
+            "rawRssi": -68
+          }, {
+            "mac": "203019706990128",
+            "rawRssi": -70
+          }],
+          "source": "PASSIVE_SCAN"
+        }
+      },
+      "additionalTimestamp": "2024-05-27T01:21:06.362Z",
+      "metadata": {
+        "platform": "ANDROID"
+      }
+    }
+  }]
+}

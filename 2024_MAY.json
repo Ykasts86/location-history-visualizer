@@ -1,0 +1,2102 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 258452367,
+        "longitudeE7": -802475545,
+        "placeId": "ChIJu5-5mPGw2YgRphhmwiRL6D8",
+        "address": "3081 NW 78th St, Miami, FL 33147, USA",
+        "sourceInfo": {
+          "deviceTag": 547195445
+        },
+        "locationConfidence": 75.74045,
+        "calibratedProbability": 64.79334
+      },
+      "duration": {
+        "startTimestamp": "2024-05-27T01:06:11.954Z",
+        "endTimestamp": "2024-05-27T04:14:49.691Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 258456723,
+      "centerLngE7": -802473258,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 258456560,
+        "longitudeE7": -802473087,
+        "placeId": "ChIJnezDCvGw2YgRIbZo3GMbC2c",
+        "address": "3074 NW 79th St, Miami, FL 33147, USA",
+        "name": "Blue Magic",
+        "locationConfidence": 7.8971276,
+        "calibratedProbability": 6.7557206
+      }, {
+        "latitudeE7": 258456479,
+        "longitudeE7": -802473083,
+        "placeId": "ChIJ0RF7CvGw2YgRjIXC-vYcwuA",
+        "address": "3074 NW 79th St, Miami, FL 33147, USA",
+        "name": "Blue Magic",
+        "locationConfidence": 4.1530776,
+        "calibratedProbability": 3.5528147
+      }, {
+        "latitudeE7": 258455533,
+        "longitudeE7": -802488182,
+        "placeId": "ChIJLcyevHm52YgR7z--jFSD0M0",
+        "address": "3150 NW 79th St, Miami, FL 33147, USA",
+        "name": "Northside",
+        "locationConfidence": 2.0034616,
+        "calibratedProbability": 1.7138923
+      }, {
+        "latitudeE7": 258456521,
+        "longitudeE7": -802474548,
+        "placeId": "ChIJS3ivCvGw2YgRyvQqmNIUU70",
+        "address": "3078 NW 79th St, Miami, FL 33147, USA",
+        "name": "simplemobile",
+        "locationConfidence": 1.821663,
+        "calibratedProbability": 1.5583699
+      }, {
+        "latitudeE7": 258456153,
+        "longitudeE7": -802473936,
+        "placeId": "ChIJCUd0oPGw2YgRolyw-sFNsfc",
+        "address": "3076 NW 79th St, Miami, FL 33147, USA",
+        "name": "Inner Ape Tattoo",
+        "locationConfidence": 1.4547992,
+        "calibratedProbability": 1.2445306
+      }, {
+        "latitudeE7": 258448050,
+        "longitudeE7": -802480841,
+        "placeId": "ChIJsSZOkPGw2YgRuv9Tj5WFeIw",
+        "address": "3101 NW 77th St, Miami, FL 33147, USA",
+        "name": "Northside Transit Village",
+        "locationConfidence": 1.2050756,
+        "calibratedProbability": 1.0309006
+      }, {
+        "latitudeE7": 258453640,
+        "longitudeE7": -802491200,
+        "placeId": "ChIJP6tgKfKw2YgRwDN-m6JFmJc",
+        "address": "Gladeview, FL 33147, USA",
+        "name": "Northside Sta \u0026 3150 NW 79 St",
+        "locationConfidence": 0.64176613,
+        "calibratedProbability": 0.5490088
+      }, {
+        "latitudeE7": 258483200,
+        "longitudeE7": -802435710,
+        "placeId": "ChIJqfQErfCw2YgRHQgC1qOsLOQ",
+        "address": "7900 NW 27th Ave, Miami, FL 33147, USA",
+        "name": "Northside Shopping Center",
+        "locationConfidence": 0.5340093,
+        "calibratedProbability": 0.45682654
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 61,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 258456603,
+        "longitudeE7": -802473513,
+        "sourceInfo": {
+          "deviceTag": 547195445
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 258458849,
+        "longitudeE7": -802329598,
+        "sourceInfo": {
+          "deviceTag": 547195445
+        }
+      },
+      "duration": {
+        "startTimestamp": "2024-05-27T04:14:49.691Z",
+        "endTimestamp": "2024-05-27T04:36:38.214Z"
+      },
+      "distance": 1440,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 81.45740032196045
+      }, {
+        "activityType": "WALKING",
+        "probability": 6.712911278009415
+      }, {
+        "activityType": "CYCLING",
+        "probability": 6.44410252571106
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 3.1844355165958405
+      }, {
+        "activityType": "STILL",
+        "probability": 1.069968193769455
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.38986820727586746
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.28764300514012575
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.28479741886258125
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.06839728448539972
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.04485368262976408
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.02264104114146903
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.016370697994716465
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.0094074392109178
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.007194611680461094
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.5836516098488573E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 258457794,
+          "lngE7": -802473526
+        }, {
+          "latE7": 258460712,
+          "lngE7": -802384185
+        }, {
+          "latE7": 258456420,
+          "lngE7": -802329559
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJmcZRCvGw2YgRUgyj-BX4Rgg",
+          "duration": "8s"
+        }, {
+          "placeId": "ChIJe-CcCfGw2YgR4H7wOkuFv7M",
+          "duration": "8s"
+        }, {
+          "placeId": "ChIJ06pRBvGw2YgRACbNP0rSGOA",
+          "duration": "32s"
+        }, {
+          "placeId": "ChIJf23cAfGw2YgRWrgH3qCIK9U",
+          "duration": "40s"
+        }, {
+          "placeId": "ChIJR7Au-vCw2YgRpYnUj_MPgkA",
+          "duration": "40s"
+        }, {
+          "placeId": "ChIJHYKI8_Cw2YgRo7sQfhwBKSg",
+          "duration": "24s"
+        }, {
+          "placeId": "ChIJI0EmjPCw2YgRP3HknyX8N1E",
+          "duration": "48s"
+        }, {
+          "placeId": "ChIJXwSMgvCw2YgRP-0txBCjWKU",
+          "duration": "161s"
+        }, {
+          "placeId": "ChIJ2xzMevqw2YgRPUgIUllCJ7Q",
+          "duration": "16s"
+        }, {
+          "placeId": "ChIJv069Zfqw2YgRAysVgrCe2eA",
+          "duration": "56s"
+        }, {
+          "placeId": "ChIJK4zDZ_qw2YgRR31hyY6ZpqE",
+          "duration": "72s"
+        }, {
+          "placeId": "ChIJ8cjWQvqw2YgR1GY-4AnEOo4",
+          "duration": "24s"
+        }, {
+          "placeId": "ChIJ-2j1T_qw2YgR9pB5uItxic8",
+          "duration": "129s"
+        }, {
+          "placeId": "ChIJof9ITfqw2YgRcrlEz34tWUo",
+          "duration": "32s"
+        }, {
+          "placeId": "ChIJRRe7sfuw2YgR9roJFWJbhCY",
+          "duration": "56s"
+        }, {
+          "placeId": "ChIJE0_rvfuw2YgRT1HujVCWjSQ",
+          "duration": "56s"
+        }, {
+          "placeId": "ChIJgZYZjvuw2YgRzsSgeJuRkPg",
+          "duration": "24s"
+        }, {
+          "placeId": "ChIJrbB4ifuw2YgR4LPi0bxhT70",
+          "duration": "24s"
+        }, {
+          "placeId": "ChIJx1u-dfyw2YgRMJrDBiQcwqE",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJ343cc_yw2YgRzhycI7BAAi4",
+          "duration": "24s"
+        }, {
+          "placeId": "ChIJRec4bPyw2YgRwBN2tszZDKQ",
+          "duration": "24s"
+        }, {
+          "placeId": "ChIJ46x3avyw2YgRkNQwOFHKtVQ",
+          "duration": "16s"
+        }, {
+          "placeId": "ChIJ12z-Rvyw2YgR9h05B7BiOcI",
+          "duration": "32s"
+        }, {
+          "placeId": "ChIJ8cxVT_yw2YgRTtWU-pNisU0",
+          "duration": "72s"
+        }, {
+          "placeId": "ChIJ91aMsf2w2YgRHp__AlgkjME",
+          "duration": "201s"
+        }, {
+          "placeId": "ChIJS3aBvf2w2YgRBdOaLZ15NGg",
+          "duration": "24s"
+        }, {
+          "placeId": "ChIJa5C2jv2w2YgRrUt6RfOvH4c",
+          "duration": "56s"
+        }],
+        "distanceMeters": 1503.2089603669783,
+        "travelMode": "DRIVE",
+        "confidence": 1.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 258458744,
+          "longitudeE7": -802329781,
+          "accuracyMetres": 71
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "FROM_RAW_LOCATION",
+        "timestamp": "2024-05-27T04:37:49.897Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 258460497,
+        "longitudeE7": -802330237,
+        "placeId": "ChIJJceyOxSx2YgRFXWNGL9DCiI",
+        "address": "2160 NW 79th St, Miami, FL 33147, USA",
+        "name": "Mobil",
+        "locationConfidence": 100.0,
+        "calibratedProbability": 100.0
+      },
+      "duration": {
+        "startTimestamp": "2024-05-27T04:36:38.214Z",
+        "endTimestamp": "2024-05-27T18:22:41.792Z"
+      },
+      "placeConfidence": "USER_CONFIRMED",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 258460275,
+          "longitudeE7": -802331987,
+          "placeId": "ChIJ08wGvP2w2YgRDQssf0L__94",
+          "address": "2160 NW 79th St, Miami, FL 33147, USA",
+          "name": "7-Eleven",
+          "sourceInfo": {
+            "deviceTag": -1074332895
+          },
+          "locationConfidence": 35.947594,
+          "calibratedProbability": 32.416134
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "sectionId": ""
+      }],
+      "visitConfidence": 100,
+      "otherCandidateLocations": [{
+        "latitudeE7": 258460068,
+        "longitudeE7": -802331968,
+        "placeId": "ChIJ6T3XCbKx2YgR0BZiLBDz17E",
+        "address": "7705 NW 22nd Ave, Miami, FL 33147, USA",
+        "name": "Seven Eleven",
+        "locationConfidence": 41.2123,
+        "calibratedProbability": 22.13283
+      }, {
+        "latitudeE7": 258465876,
+        "longitudeE7": -802323492,
+        "placeId": "ChIJj4np8_2w2YgRDogmnjkUG_g",
+        "address": "2151 NW 79th St, Miami, FL 33147, USA",
+        "name": "Family Dollar",
+        "locationConfidence": 1.0756714,
+        "calibratedProbability": 0.5776832
+      }, {
+        "latitudeE7": 258465438,
+        "longitudeE7": -802332969,
+        "placeId": "ChIJqQAX6f2w2YgR6awsPSwOmr0",
+        "address": "7901 NW 22nd Ave, Miami, FL 33147, USA",
+        "name": "Caraf Oil 79th Street",
+        "locationConfidence": 0.8480441,
+        "calibratedProbability": 0.4554372
+      }, {
+        "latitudeE7": 258466559,
+        "longitudeE7": -802340446,
+        "placeId": "ChIJP-o7xP2w2YgRiukfDhxli-8",
+        "address": "7910 NW 22nd Ave, Miami, FL 33147, USA",
+        "name": "New Generation Supermarket Plus",
+        "locationConfidence": 0.735828,
+        "calibratedProbability": 0.3951722
+      }, {
+        "latitudeE7": 258446727,
+        "longitudeE7": -802333094,
+        "placeId": "ChIJh5f4Fn-x2YgR-2Tli-VvLgQ",
+        "address": "7715 NW 22nd Ave Apt 104GladeView, Miami, FL 33147, USA",
+        "name": "The Corinthians Apartments",
+        "locationConfidence": 0.7282565,
+        "calibratedProbability": 0.391106
+      }, {
+        "latitudeE7": 258452721,
+        "longitudeE7": -802332955,
+        "placeId": "ChIJQ3m0mv2w2YgRaCh1NgGM7sE",
+        "address": "7735 NW 22nd Ave, Miami, FL 33147, USA",
+        "locationConfidence": 0.66340953,
+        "calibratedProbability": 0.3562803
+      }, {
+        "latitudeE7": 258458050,
+        "longitudeE7": -802334150,
+        "placeId": "ChIJ7zHZlf2w2YgRCjWrkWsyoAw",
+        "address": "Gladeview, FL 33147, USA",
+        "name": "NW 22 Av \u0026 NW 78 St",
+        "locationConfidence": 0.5583962,
+        "calibratedProbability": 0.29988348
+      }],
+      "editConfirmationStatus": "CONFIRMED",
+      "locationConfidence": 100,
+      "placeVisitType": "SINGLE_PLACE",
+      "locationAssertionType": "WITHIN_OR_AT",
+      "lastEditedTimestamp": "2024-05-27T17:13:06.257Z",
+      "placeVisitImportance": "MAIN",
+      "editActionMetadata": {
+        "placeVisitSegment": {
+          "location": {
+            "placeId": "ChIJJceyOxSx2YgRFXWNGL9DCiI",
+            "address": "2160 NW 79th St, Miami, FL 33147, USA",
+            "name": "Mobil",
+            "locationConfidence": 53.59717
+          }
+        },
+        "editHistory": {
+          "editEvent": [{
+            "editOperation": ["CONFIRM"],
+            "uiConfiguration": {
+            }
+          }]
+        },
+        "originalCandidates": {
+          "placeVisitSegment": {
+            "placeVisitCandidate": [{
+              "location": {
+                "placeId": "ChIJJceyOxSx2YgRFXWNGL9DCiI",
+                "address": "2160 NW 79th St, Miami, FL 33147, USA",
+                "name": "Mobil",
+                "locationConfidence": 53.59717
+              }
+            }, {
+              "location": {
+                "placeId": "ChIJ6T3XCbKx2YgR0BZiLBDz17E",
+                "address": "7705 NW 22nd Ave, Miami, FL 33147, USA",
+                "name": "Seven Eleven",
+                "locationConfidence": 41.2123
+              }
+            }]
+          }
+        }
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 258465264,
+        "longitudeE7": -802441235,
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 258455084,
+        "longitudeE7": -802481318,
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        }
+      },
+      "duration": {
+        "startTimestamp": "2024-05-27T18:22:41.792Z",
+        "endTimestamp": "2024-05-27T18:24:51.322Z"
+      },
+      "distance": 416,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 50.12871026992798
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 21.391136944293976
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 11.190294474363327
+      }, {
+        "activityType": "STILL",
+        "probability": 7.203547656536102
+      }, {
+        "activityType": "CYCLING",
+        "probability": 6.905113160610199
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 1.0648898780345917
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.7924122735857964
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.5440231878310442
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.5048796068876982
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.17778221517801285
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.06380478153005242
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.018613300926517695
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.01001232085400261
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0047694167733425274
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 4.255790031493234E-6
+      }]
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 258456560,
+        "longitudeE7": -802473087,
+        "placeId": "ChIJnezDCvGw2YgRIbZo3GMbC2c",
+        "address": "3074 NW 79th St, Miami, FL 33147, USA",
+        "name": "Blue Magic",
+        "semanticType": "TYPE_UNKNOWN",
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        },
+        "locationConfidence": 35.897465,
+        "calibratedProbability": 35.897465
+      },
+      "duration": {
+        "startTimestamp": "2024-05-27T18:24:51.322Z",
+        "endTimestamp": "2024-05-27T22:14:42Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": 258456521,
+        "longitudeE7": -802474548,
+        "placeId": "ChIJS3ivCvGw2YgRyvQqmNIUU70",
+        "address": "3078 NW 79th St, Miami, FL 33147, USA",
+        "name": "simplemobile",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 28.470165,
+        "calibratedProbability": 28.470165
+      }, {
+        "latitudeE7": 258456479,
+        "longitudeE7": -802473083,
+        "placeId": "ChIJ0RF7CvGw2YgRjIXC-vYcwuA",
+        "address": "3074 NW 79th St, Miami, FL 33147, USA",
+        "name": "Blue Magic",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 10.569448,
+        "calibratedProbability": 10.569448
+      }, {
+        "latitudeE7": 258456153,
+        "longitudeE7": -802473936,
+        "placeId": "ChIJCUd0oPGw2YgRolyw-sFNsfc",
+        "address": "3076 NW 79th St, Miami, FL 33147, USA",
+        "name": "Inner Ape Tattoo",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 8.51957,
+        "calibratedProbability": 8.51957
+      }, {
+        "latitudeE7": 258452367,
+        "longitudeE7": -802475545,
+        "placeId": "ChIJu5-5mPGw2YgRphhmwiRL6D8",
+        "address": "3081 NW 78th St, Miami, FL 33147, USA",
+        "locationConfidence": 4.8310814,
+        "calibratedProbability": 4.8310814
+      }, {
+        "latitudeE7": 258456418,
+        "longitudeE7": -802470972,
+        "placeId": "ChIJ7R7xCfGw2YgRXye2mM8_S5g",
+        "address": "3060 NW 79th St, Miami, FL 33147, USA",
+        "name": "Choice Wigs",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 3.176038,
+        "calibratedProbability": 3.176038
+      }, {
+        "latitudeE7": 258455533,
+        "longitudeE7": -802488182,
+        "placeId": "ChIJLcyevHm52YgR7z--jFSD0M0",
+        "address": "3150 NW 79th St, Miami, FL 33147, USA",
+        "name": "Northside",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 2.887275,
+        "calibratedProbability": 2.887275
+      }, {
+        "latitudeE7": 258453640,
+        "longitudeE7": -802491200,
+        "placeId": "ChIJP6tgKfKw2YgRwDN-m6JFmJc",
+        "address": "Gladeview, FL 33147, USA",
+        "name": "Northside Sta \u0026 3150 NW 79 St",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 1.8233987,
+        "calibratedProbability": 1.8233987
+      }, {
+        "latitudeE7": 258456438,
+        "longitudeE7": -802474453,
+        "placeId": "ChIJN9CoCvGw2YgREA-6C4YV-3E",
+        "address": "3078 NW 79th St, Miami, FL 33147, USA",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 1.1358949,
+        "calibratedProbability": 1.1358949
+      }, {
+        "latitudeE7": 258448050,
+        "longitudeE7": -802480841,
+        "placeId": "ChIJsSZOkPGw2YgRuv9Tj5WFeIw",
+        "address": "3101 NW 77th St, Miami, FL 33147, USA",
+        "name": "Northside Transit Village",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 1.0589906,
+        "calibratedProbability": 1.0589906
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 36,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 258456199,
+        "longitudeE7": -802506668,
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 258457348,
+        "longitudeE7": -802481707,
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        }
+      },
+      "duration": {
+        "startTimestamp": "2024-05-27T22:14:42Z",
+        "endTimestamp": "2024-05-27T22:34:47Z"
+      },
+      "distance": 552,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 68.66162419319153
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.5807313844561577
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.2254346152767539
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.14974314253777266
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.11375908507034183
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.05962940049357712
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.052609783597290516
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.028197609935887158
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.02525147283449769
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.02083597210003063
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.019271724158897996
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.006875462713651359
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0036293316952651367
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 258455104,
+          "lngE7": -802478866
+        }, {
+          "latE7": 258456211,
+          "lngE7": -802502288
+        }, {
+          "latE7": 258456058,
+          "lngE7": -802516021
+        }, {
+          "latE7": 258458728,
+          "lngE7": -802505035
+        }, {
+          "latE7": 258460159,
+          "lngE7": -802503967
+        }, {
+          "latE7": 258464241,
+          "lngE7": -802500228
+        }, {
+          "latE7": 258464393,
+          "lngE7": -802501678
+        }, {
+          "latE7": 258457794,
+          "lngE7": -802498245
+        }, {
+          "latE7": 258457183,
+          "lngE7": -802481689
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJ7yYadvGw2YgRDOcAg3rK-nU",
+          "duration": "32s"
+        }, {
+          "placeId": "ChIJIzyYd_Gw2YgR0Mx8vah6EAM",
+          "duration": "45s"
+        }, {
+          "placeId": "ChIJgWJqf_Gw2YgRXvLxHGJPb1k",
+          "duration": "73s"
+        }, {
+          "placeId": "ChIJ9xbI1POw2YgRF7_jh2x7ZjI",
+          "duration": "48s"
+        }, {
+          "placeId": "ChIJfzWWMvKw2YgRzqW8nQZBErw",
+          "duration": "29s"
+        }, {
+          "placeId": "ChIJfzWWMvKw2YgRI9_J-hYB5e8",
+          "duration": "39s"
+        }, {
+          "placeId": "ChIJ4btwNfKw2YgRdgmB5rfpwmU",
+          "duration": "75s"
+        }, {
+          "placeId": "ChIJJfSuTfKw2YgRgHMbM3_SuXE",
+          "duration": "119s"
+        }, {
+          "placeId": "ChIJe52jVfKw2YgRWol0cvl-bVQ",
+          "duration": "42s"
+        }, {
+          "placeId": "ChIJAcCb_vKw2YgR3HipY_TzfCQ",
+          "duration": "20s"
+        }, {
+          "placeId": "ChIJXaweVfKw2YgR3yep2Qf4bQQ",
+          "duration": "64s"
+        }, {
+          "placeId": "ChIJXaweVfKw2YgR41XdvArQXIw",
+          "duration": "43s"
+        }, {
+          "placeId": "ChIJ29w6TfKw2YgRQw9oV5sd_0M",
+          "duration": "49s"
+        }, {
+          "placeId": "ChIJtT00S_Kw2YgRn5hDo-SlKwU",
+          "duration": "23s"
+        }, {
+          "placeId": "ChIJbehltfOw2YgRH_v71AS_EVA",
+          "duration": "40s"
+        }, {
+          "placeId": "ChIJnQydyfOw2YgRehWWyQlnwm0",
+          "duration": "62s"
+        }, {
+          "placeId": "ChIJv28yyfOw2YgR7zYeQMtFpkQ",
+          "duration": "18s"
+        }, {
+          "placeId": "ChIJs0DSyPOw2YgRC3yrYhI8pCA",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJce-tyPOw2YgRUzlDC1h8LcM",
+          "duration": "13s"
+        }, {
+          "placeId": "ChIJqTQpxvOw2YgRVioXVVm7Dd0",
+          "duration": "27s"
+        }, {
+          "placeId": "ChIJcVaMyPOw2YgRwsKhVvcjeC4",
+          "duration": "52s"
+        }, {
+          "placeId": "ChIJv28yyfOw2YgR7jYeQMtFpkQ",
+          "duration": "18s"
+        }, {
+          "placeId": "ChIJj51VyfOw2YgRjKnVhs3wED4",
+          "duration": "17s"
+        }, {
+          "placeId": "ChIJ285gy_Ow2YgROeUX61JZp4g",
+          "duration": "8s"
+        }, {
+          "placeId": "ChIJL96oNPKw2YgR_A8BEzX474A",
+          "duration": "24s"
+        }, {
+          "placeId": "ChIJfzWWMvKw2YgRI9_J-hYB5e8",
+          "duration": "39s"
+        }, {
+          "placeId": "ChIJfzWWMvKw2YgRzqW8nQZBErw",
+          "duration": "27s"
+        }, {
+          "placeId": "ChIJ9xbI1POw2YgRF7_jh2x7ZjI",
+          "duration": "48s"
+        }, {
+          "placeId": "ChIJgWJqf_Gw2YgRXvLxHGJPb1k",
+          "duration": "73s"
+        }, {
+          "placeId": "ChIJIzyYd_Gw2YgR0Mx8vah6EAM",
+          "duration": "13s"
+        }],
+        "distanceMeters": 1026.339075025039,
+        "travelMode": "WALK",
+        "confidence": 0.9972778665243011
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 258454762,
+          "lngE7": -802515945,
+          "accuracyMeters": 12,
+          "timestamp": "2024-05-27T22:24:51.291Z"
+        }, {
+          "latE7": 258460922,
+          "lngE7": -802506409,
+          "accuracyMeters": 24,
+          "timestamp": "2024-05-27T22:26:48.570Z"
+        }, {
+          "latE7": 258464298,
+          "lngE7": -802503586,
+          "accuracyMeters": 6,
+          "timestamp": "2024-05-27T22:29:00.035Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 258456560,
+        "longitudeE7": -802473087,
+        "placeId": "ChIJnezDCvGw2YgRIbZo3GMbC2c",
+        "address": "3074 NW 79th St, Miami, FL 33147, USA",
+        "name": "Blue Magic",
+        "semanticType": "TYPE_UNKNOWN",
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        },
+        "locationConfidence": 29.754084,
+        "calibratedProbability": 29.754084
+      },
+      "duration": {
+        "startTimestamp": "2024-05-27T22:34:47Z",
+        "endTimestamp": "2024-05-27T23:05:34Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 258456521,
+        "longitudeE7": -802474548,
+        "placeId": "ChIJS3ivCvGw2YgRyvQqmNIUU70",
+        "address": "3078 NW 79th St, Miami, FL 33147, USA",
+        "name": "simplemobile",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 26.8583,
+        "calibratedProbability": 26.8583
+      }, {
+        "latitudeE7": 258456479,
+        "longitudeE7": -802473083,
+        "placeId": "ChIJ0RF7CvGw2YgRjIXC-vYcwuA",
+        "address": "3074 NW 79th St, Miami, FL 33147, USA",
+        "name": "Blue Magic",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 10.842054,
+        "calibratedProbability": 10.842054
+      }, {
+        "latitudeE7": 258456153,
+        "longitudeE7": -802473936,
+        "placeId": "ChIJCUd0oPGw2YgRolyw-sFNsfc",
+        "address": "3076 NW 79th St, Miami, FL 33147, USA",
+        "name": "Inner Ape Tattoo",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 8.46927,
+        "calibratedProbability": 8.46927
+      }, {
+        "latitudeE7": 258452367,
+        "longitudeE7": -802475545,
+        "placeId": "ChIJu5-5mPGw2YgRphhmwiRL6D8",
+        "address": "3081 NW 78th St, Miami, FL 33147, USA",
+        "locationConfidence": 7.0480666,
+        "calibratedProbability": 7.0480666
+      }, {
+        "latitudeE7": 258455533,
+        "longitudeE7": -802488182,
+        "placeId": "ChIJLcyevHm52YgR7z--jFSD0M0",
+        "address": "3150 NW 79th St, Miami, FL 33147, USA",
+        "name": "Northside",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 4.842734,
+        "calibratedProbability": 4.842734
+      }, {
+        "latitudeE7": 258453640,
+        "longitudeE7": -802491200,
+        "placeId": "ChIJP6tgKfKw2YgRwDN-m6JFmJc",
+        "address": "Gladeview, FL 33147, USA",
+        "name": "Northside Sta \u0026 3150 NW 79 St",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 4.059937,
+        "calibratedProbability": 4.059937
+      }, {
+        "latitudeE7": 258456438,
+        "longitudeE7": -802474453,
+        "placeId": "ChIJN9CoCvGw2YgREA-6C4YV-3E",
+        "address": "3078 NW 79th St, Miami, FL 33147, USA",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 2.6361895,
+        "calibratedProbability": 2.6361895
+      }, {
+        "latitudeE7": 258448050,
+        "longitudeE7": -802480841,
+        "placeId": "ChIJsSZOkPGw2YgRuv9Tj5WFeIw",
+        "address": "3101 NW 77th St, Miami, FL 33147, USA",
+        "name": "Northside Transit Village",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 2.1704764,
+        "calibratedProbability": 2.1704764
+      }, {
+        "latitudeE7": 258456418,
+        "longitudeE7": -802470972,
+        "placeId": "ChIJ7R7xCfGw2YgRXye2mM8_S5g",
+        "address": "3060 NW 79th St, Miami, FL 33147, USA",
+        "name": "Choice Wigs",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 1.6027659,
+        "calibratedProbability": 1.6027659
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 30,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 258456975,
+        "longitudeE7": -802473595,
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 258454139,
+        "longitudeE7": -802420761,
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        }
+      },
+      "duration": {
+        "startTimestamp": "2024-05-27T23:05:34Z",
+        "endTimestamp": "2024-05-27T23:06:58Z"
+      },
+      "distance": 532,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 59.34184789657593
+      }, {
+        "activityType": "WALKING",
+        "probability": 23.556894063949585
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 10.315868258476257
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.5803427193313837
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.42131966911256313
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.38458602502942085
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.3011916298419237
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.17710167448967695
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.08582303416915238
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.06799236871302128
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.022331293439492583
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.019695762603078038
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.015769986202940345
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 258457794,
+          "lngE7": -802473602
+        }, {
+          "latE7": 258459453,
+          "lngE7": -802426147
+        }, {
+          "latE7": 258454113,
+          "lngE7": -802420730
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJmcZRCvGw2YgRUgyj-BX4Rgg",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJe-CcCfGw2YgR4H7wOkuFv7M",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJ06pRBvGw2YgRACbNP0rSGOA",
+          "duration": "4s"
+        }, {
+          "placeId": "ChIJf23cAfGw2YgRWrgH3qCIK9U",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJR7Au-vCw2YgRpYnUj_MPgkA",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJHYKI8_Cw2YgRo7sQfhwBKSg",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJI0EmjPCw2YgRP3HknyX8N1E",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJXwSMgvCw2YgRP-0txBCjWKU",
+          "duration": "23s"
+        }, {
+          "placeId": "ChIJ2xzMevqw2YgRPUgIUllCJ7Q",
+          "duration": "2s"
+        }, {
+          "placeId": "ChIJv069Zfqw2YgRAysVgrCe2eA",
+          "duration": "8s"
+        }, {
+          "placeId": "ChIJSWyXZvqw2YgRUKaEHLchyWQ",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJO6VwYfqw2YgRoDNYN3c3d48",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJ275cYPqw2YgRsteAhBX46Zw",
+          "duration": "7s"
+        }],
+        "distanceMeters": 589.0933749143584,
+        "travelMode": "DRIVE",
+        "confidence": 0.9356709045264403
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 258453860,
+          "longitudeE7": -802420627,
+          "accuracyMetres": 86
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2024-05-27T23:07:11.434Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 258454139,
+        "longitudeE7": -802420761,
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 258462246,
+        "longitudeE7": -802431701,
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        }
+      },
+      "duration": {
+        "startTimestamp": "2024-05-27T23:06:58Z",
+        "endTimestamp": "2024-05-27T23:21:21Z"
+      },
+      "distance": 335,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 57.99230933189392
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 7.903657108545303
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.9525786153972149
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.2176768844947219
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.1537401112727821
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.13681340496987104
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.07976209744811058
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.07656533271074295
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.04867238749284297
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.044155115028843284
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.04222647985443473
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.02918310055974871
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.018331351748201996
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 258454113,
+          "lngE7": -802420730
+        }, {
+          "latE7": 258460464,
+          "lngE7": -802418746
+        }, {
+          "latE7": 258467922,
+          "lngE7": -802420806
+        }, {
+          "latE7": 258467502,
+          "lngE7": -802429351
+        }, {
+          "latE7": 258463554,
+          "lngE7": -802433929
+        }, {
+          "latE7": 258461151,
+          "lngE7": -802441329
+        }, {
+          "latE7": 258455371,
+          "lngE7": -802464141
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJ275cYPqw2YgRsteAhBX46Zw",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJZ5eSYPqw2YgReWqnJMx1JDY",
+          "duration": "22s"
+        }, {
+          "placeId": "ChIJQ-LFYPqw2YgRSyrVq0W1RmA",
+          "duration": "18s"
+        }, {
+          "placeId": "ChIJOf6iXfqw2YgR7Yn34Njt67c",
+          "duration": "47s"
+        }, {
+          "placeId": "ChIJ8cjWQvqw2YgRQEl9t7v2wI0",
+          "duration": "16s"
+        }, {
+          "placeId": "ChIJs0wuQvqw2YgR1G-Vxvv06BA",
+          "duration": "83s"
+        }, {
+          "placeId": "ChIJr6FaFfqw2YgR0kOuwO2xld4",
+          "duration": "22s"
+        }, {
+          "placeId": "ChIJhZU0E_qw2YgRAIXQ7ZtlPZU",
+          "duration": "71s"
+        }, {
+          "placeId": "ChIJvfmndPqw2YgRDi8kvO8sA_8",
+          "duration": "61s"
+        }, {
+          "placeId": "ChIJ7Zledfqw2YgRMPdQ0-04YO4",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJwRzpmPCw2YgR8AbwL5ds39U",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJK3tonvCw2YgRDAfms85b7oo",
+          "duration": "47s"
+        }, {
+          "placeId": "ChIJZ3G5nfCw2YgR5vaqFC4yHVI",
+          "duration": "84s"
+        }, {
+          "placeId": "ChIJLXVMkPCw2YgRvCUgcOkw88c",
+          "duration": "16s"
+        }, {
+          "placeId": "ChIJjRDSj_Cw2YgREosofB4H7NI",
+          "duration": "21s"
+        }, {
+          "placeId": "ChIJQRQEj_Cw2YgRGu15Z2foch8",
+          "duration": "16s"
+        }, {
+          "placeId": "ChIJI0EmjPCw2YgRP3HknyX8N1E",
+          "duration": "74s"
+        }, {
+          "placeId": "ChIJHYKI8_Cw2YgRo7sQfhwBKSg",
+          "duration": "47s"
+        }, {
+          "placeId": "ChIJR7Au-vCw2YgRpYnUj_MPgkA",
+          "duration": "64s"
+        }, {
+          "placeId": "ChIJf23cAfGw2YgRWrgH3qCIK9U",
+          "duration": "70s"
+        }, {
+          "placeId": "ChIJnSM1B_Gw2YgR-IMm3i5SAog",
+          "duration": "35s"
+        }],
+        "distanceMeters": 756.9026781888817,
+        "travelMode": "WALK",
+        "confidence": 0.9488972768117191
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 258465939,
+          "lngE7": -802420654,
+          "accuracyMeters": 8,
+          "timestamp": "2024-05-27T23:12:21.784Z"
+        }, {
+          "latE7": 258462181,
+          "lngE7": -802433548,
+          "accuracyMeters": 5,
+          "timestamp": "2024-05-27T23:17:26.906Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 258456560,
+        "longitudeE7": -802473087,
+        "placeId": "ChIJnezDCvGw2YgRIbZo3GMbC2c",
+        "address": "3074 NW 79th St, Miami, FL 33147, USA",
+        "name": "Blue Magic",
+        "semanticType": "TYPE_UNKNOWN",
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        },
+        "locationConfidence": 35.024673,
+        "calibratedProbability": 35.024673
+      },
+      "duration": {
+        "startTimestamp": "2024-05-27T23:21:21Z",
+        "endTimestamp": "2024-05-27T23:36:41Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "visitConfidence": 70,
+      "otherCandidateLocations": [{
+        "latitudeE7": 258456521,
+        "longitudeE7": -802474548,
+        "placeId": "ChIJS3ivCvGw2YgRyvQqmNIUU70",
+        "address": "3078 NW 79th St, Miami, FL 33147, USA",
+        "name": "simplemobile",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 24.976858,
+        "calibratedProbability": 24.976858
+      }, {
+        "latitudeE7": 258456479,
+        "longitudeE7": -802473083,
+        "placeId": "ChIJ0RF7CvGw2YgRjIXC-vYcwuA",
+        "address": "3074 NW 79th St, Miami, FL 33147, USA",
+        "name": "Blue Magic",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 11.799978,
+        "calibratedProbability": 11.799978
+      }, {
+        "latitudeE7": 258452367,
+        "longitudeE7": -802475545,
+        "placeId": "ChIJu5-5mPGw2YgRphhmwiRL6D8",
+        "address": "3081 NW 78th St, Miami, FL 33147, USA",
+        "locationConfidence": 6.18173,
+        "calibratedProbability": 6.18173
+      }, {
+        "latitudeE7": 258456153,
+        "longitudeE7": -802473936,
+        "placeId": "ChIJCUd0oPGw2YgRolyw-sFNsfc",
+        "address": "3076 NW 79th St, Miami, FL 33147, USA",
+        "name": "Inner Ape Tattoo",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 5.877475,
+        "calibratedProbability": 5.877475
+      }, {
+        "latitudeE7": 258455533,
+        "longitudeE7": -802488182,
+        "placeId": "ChIJLcyevHm52YgR7z--jFSD0M0",
+        "address": "3150 NW 79th St, Miami, FL 33147, USA",
+        "name": "Northside",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 4.406456,
+        "calibratedProbability": 4.406456
+      }, {
+        "latitudeE7": 258453640,
+        "longitudeE7": -802491200,
+        "placeId": "ChIJP6tgKfKw2YgRwDN-m6JFmJc",
+        "address": "Gladeview, FL 33147, USA",
+        "name": "Northside Sta \u0026 3150 NW 79 St",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 3.2572334,
+        "calibratedProbability": 3.2572334
+      }, {
+        "latitudeE7": 258456418,
+        "longitudeE7": -802470972,
+        "placeId": "ChIJ7R7xCfGw2YgRXye2mM8_S5g",
+        "address": "3060 NW 79th St, Miami, FL 33147, USA",
+        "name": "Choice Wigs",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 2.2980654,
+        "calibratedProbability": 2.2980654
+      }, {
+        "latitudeE7": 258456438,
+        "longitudeE7": -802474453,
+        "placeId": "ChIJN9CoCvGw2YgREA-6C4YV-3E",
+        "address": "3078 NW 79th St, Miami, FL 33147, USA",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 1.8659334,
+        "calibratedProbability": 1.8659334
+      }, {
+        "latitudeE7": 258448050,
+        "longitudeE7": -802480841,
+        "placeId": "ChIJsSZOkPGw2YgRuv9Tj5WFeIw",
+        "address": "3101 NW 77th St, Miami, FL 33147, USA",
+        "name": "Northside Transit Village",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 1.419343,
+        "calibratedProbability": 1.419343
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 35,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 258450450,
+        "longitudeE7": -802479808,
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 258439788,
+        "longitudeE7": -802502773,
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        }
+      },
+      "duration": {
+        "startTimestamp": "2024-05-27T23:36:41Z",
+        "endTimestamp": "2024-05-27T23:41:29Z"
+      },
+      "distance": 298,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 92.37304329872131
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 3.080185689032078
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.5809202324599028
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.47520133666694164
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.42195902206003666
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.2636047312989831
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.07647855672985315
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.05263258935883641
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.05052921478636563
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.03235250187572092
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.019494241860229522
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.00854081881698221
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0032419626222690567
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 258450489,
+          "lngE7": -802478790
+        }, {
+          "latE7": 258440952,
+          "lngE7": -802499465
+        }, {
+          "latE7": 258438873,
+          "lngE7": -802502822
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJKag6mvGw2YgRKez0ZaSO7nw",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJ46cvkfGw2YgRB7AQEaXhk-Y",
+          "duration": "46s"
+        }, {
+          "placeId": "ChIJA3eBk_Gw2YgRSSdMWGoWI8M",
+          "duration": "8s"
+        }, {
+          "placeId": "ChIJd7mWkvGw2YgR-hL9-xIHEp8",
+          "duration": "41s"
+        }, {
+          "placeId": "ChIJm6pqi_Gw2YgRqH4xkF36yzk",
+          "duration": "28s"
+        }, {
+          "placeId": "ChIJm6pqi_Gw2YgRtO923SVf6x4",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJwewHIPKw2YgRPc61rsaeFpA",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJZfr-IfKw2YgR4SQaepYlhVE",
+          "duration": "44s"
+        }, {
+          "placeId": "ChIJq_TbF_Kw2YgRFyhHH6We7zU",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJIXuRFvKw2YgRV0YLg9cfAgQ",
+          "duration": "33s"
+        }, {
+          "placeId": "ChIJ8_uhE_Kw2YgRpTZ3P_O7ACk",
+          "duration": "33s"
+        }],
+        "distanceMeters": 370.4490665243588,
+        "travelMode": "WALK",
+        "confidence": 0.9840336247919006
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 258431635,
+        "longitudeE7": -802514956,
+        "placeId": "ChIJD_MWcPKw2YgRo6G02LaYJMk",
+        "address": "3200 NW 79th St, Miami, FL 33147, USA",
+        "name": "Walmart Supercenter",
+        "semanticType": "TYPE_UNKNOWN",
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        },
+        "locationConfidence": 81.223495,
+        "calibratedProbability": 81.223495
+      },
+      "duration": {
+        "startTimestamp": "2024-05-27T23:41:29Z",
+        "endTimestamp": "2024-05-28T00:10:38Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "visitConfidence": 52,
+      "otherCandidateLocations": [{
+        "latitudeE7": 258454801,
+        "longitudeE7": -802515150,
+        "placeId": "ChIJt16VX2yx2YgRdf7LJ4UT8jk",
+        "address": "3298 NW 79th St, Miami, FL 33147, USA",
+        "name": "7-Eleven",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 16.630436,
+        "calibratedProbability": 16.630436
+      }, {
+        "latitudeE7": 258436070,
+        "longitudeE7": -802528257,
+        "placeId": "ChIJ92e72_Kw2YgRfWvdW8iz4sg",
+        "address": "3400 NW 79th St, Miami, FL 33147, USA",
+        "name": "Ross Dress for Less",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 0.70622915,
+        "calibratedProbability": 0.70622915
+      }, {
+        "latitudeE7": 258455533,
+        "longitudeE7": -802488182,
+        "placeId": "ChIJLcyevHm52YgR7z--jFSD0M0",
+        "address": "3150 NW 79th St, Miami, FL 33147, USA",
+        "name": "Northside",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 0.19452459,
+        "calibratedProbability": 0.19452459
+      }, {
+        "latitudeE7": 258461176,
+        "longitudeE7": -802514806,
+        "placeId": "ChIJX7CMq_Ow2YgRMSi-qABKOaw",
+        "address": "3275 NW 79th St, Miami, FL 33147, USA",
+        "name": "OneUnited Bank",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 0.18759553,
+        "calibratedProbability": 0.18759553
+      }, {
+        "latitudeE7": 258443525,
+        "longitudeE7": -802501870,
+        "placeId": "ChIJFVdSYvKw2YgR26mIRZ6zC2A",
+        "address": "3200 NW 79th St, Miami, FL 33147, USA",
+        "name": "Electrify America Charging Station",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 0.18384849,
+        "calibratedProbability": 0.18384849
+      }, {
+        "latitudeE7": 258463900,
+        "longitudeE7": -802502940,
+        "placeId": "ChIJbY_St_Ow2YgRLnhwCOg_2tI",
+        "address": "7990 NW 32nd Ave, Miami, FL 33147, USA",
+        "name": "Northside Supermarket",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 0.14086223,
+        "calibratedProbability": 0.14086223
+      }, {
+        "latitudeE7": 258454818,
+        "longitudeE7": -802515215,
+        "placeId": "ChIJp0lvVvKw2YgRVBEg-kqYTdc",
+        "address": "3298 NW 79th St, Miami, FL 33147, USA",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 0.12727877,
+        "calibratedProbability": 0.12727877
+      }, {
+        "latitudeE7": 258451641,
+        "longitudeE7": -802535126,
+        "placeId": "ChIJo3HU0_Kw2YgRCPuEy92siMU",
+        "address": "3440 NW 79th St, Miami, FL 33147, USA",
+        "name": "Wingstop",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 0.0881698,
+        "calibratedProbability": 0.0881698
+      }, {
+        "latitudeE7": 258455990,
+        "longitudeE7": -802514370,
+        "placeId": "ChIJCVkwVPKw2YgR3KU6awRiG1M",
+        "address": "Gladeview, FL 33147, USA",
+        "name": "NW 79 St \u0026 NW 33 Av",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 0.08406122,
+        "calibratedProbability": 0.08406122
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 81,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 258456550,
+        "longitudeE7": -802505735,
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 258456365,
+        "longitudeE7": -802486977,
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        }
+      },
+      "duration": {
+        "startTimestamp": "2024-05-28T00:10:38Z",
+        "endTimestamp": "2024-05-28T00:12:42Z"
+      },
+      "distance": 187,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 92.87924766540527
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 3.238612785935402
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.6009941454976797
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.39909943006932735
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.26223419699817896
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.25547132827341557
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.19403129117563367
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.16003296477720141
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.08989405469037592
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.024096353445202112
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.011398849164834246
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.00290249299723655
+      }, {
+        "activityType": "SAILING",
+        "probability": 7.832469236745965E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 258456401,
+          "lngE7": -802505493
+        }, {
+          "latE7": 258455677,
+          "lngE7": -802499923
+        }, {
+          "latE7": 258452625,
+          "lngE7": -802498092
+        }, {
+          "latE7": 258455715,
+          "lngE7": -802498168
+        }, {
+          "latE7": 258457088,
+          "lngE7": -802487030
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJ4btwNfKw2YgRdgmB5rfpwmU",
+          "duration": "29s"
+        }, {
+          "placeId": "ChIJs7aBNPKw2YgRvBFY74IHZqE",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJGYlLMfKw2YgRGMFfothySq0",
+          "duration": "8s"
+        }, {
+          "placeId": "ChIJGYlLMfKw2YgRGcFfothySq0",
+          "duration": "8s"
+        }, {
+          "placeId": "ChIJs7aBNPKw2YgRvRFY74IHZqE",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJfzWWMvKw2YgRI9_J-hYB5e8",
+          "duration": "14s"
+        }, {
+          "placeId": "ChIJfzWWMvKw2YgRzqW8nQZBErw",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJ9xbI1POw2YgRF7_jh2x7ZjI",
+          "duration": "18s"
+        }, {
+          "placeId": "ChIJgWJqf_Gw2YgRXvLxHGJPb1k",
+          "duration": "9s"
+        }],
+        "distanceMeters": 246.80302164289648,
+        "travelMode": "WALK",
+        "confidence": 0.9998823054687089
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 258451710,
+          "lngE7": -802497177,
+          "accuracyMeters": 24,
+          "timestamp": "2024-05-28T00:11:17.446Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 258456560,
+        "longitudeE7": -802473087,
+        "placeId": "ChIJnezDCvGw2YgRIbZo3GMbC2c",
+        "address": "3074 NW 79th St, Miami, FL 33147, USA",
+        "name": "Blue Magic",
+        "semanticType": "TYPE_UNKNOWN",
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        },
+        "locationConfidence": 30.774366,
+        "calibratedProbability": 30.774366
+      },
+      "duration": {
+        "startTimestamp": "2024-05-28T00:12:42Z",
+        "endTimestamp": "2024-05-28T02:15:35Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "visitConfidence": 85,
+      "otherCandidateLocations": [{
+        "latitudeE7": 258456153,
+        "longitudeE7": -802473936,
+        "placeId": "ChIJCUd0oPGw2YgRolyw-sFNsfc",
+        "address": "3076 NW 79th St, Miami, FL 33147, USA",
+        "name": "Inner Ape Tattoo",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 18.563457,
+        "calibratedProbability": 18.563457
+      }, {
+        "latitudeE7": 258456521,
+        "longitudeE7": -802474548,
+        "placeId": "ChIJS3ivCvGw2YgRyvQqmNIUU70",
+        "address": "3078 NW 79th St, Miami, FL 33147, USA",
+        "name": "simplemobile",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 17.627928,
+        "calibratedProbability": 17.627928
+      }, {
+        "latitudeE7": 258452367,
+        "longitudeE7": -802475545,
+        "placeId": "ChIJu5-5mPGw2YgRphhmwiRL6D8",
+        "address": "3081 NW 78th St, Miami, FL 33147, USA",
+        "locationConfidence": 7.063243,
+        "calibratedProbability": 7.063243
+      }, {
+        "latitudeE7": 258456479,
+        "longitudeE7": -802473083,
+        "placeId": "ChIJ0RF7CvGw2YgRjIXC-vYcwuA",
+        "address": "3074 NW 79th St, Miami, FL 33147, USA",
+        "name": "Blue Magic",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 6.6392465,
+        "calibratedProbability": 6.6392465
+      }, {
+        "latitudeE7": 258455533,
+        "longitudeE7": -802488182,
+        "placeId": "ChIJLcyevHm52YgR7z--jFSD0M0",
+        "address": "3150 NW 79th St, Miami, FL 33147, USA",
+        "name": "Northside",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 4.8995748,
+        "calibratedProbability": 4.8995748
+      }, {
+        "latitudeE7": 258453640,
+        "longitudeE7": -802491200,
+        "placeId": "ChIJP6tgKfKw2YgRwDN-m6JFmJc",
+        "address": "Gladeview, FL 33147, USA",
+        "name": "Northside Sta \u0026 3150 NW 79 St",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 4.715231,
+        "calibratedProbability": 4.715231
+      }, {
+        "latitudeE7": 258456418,
+        "longitudeE7": -802470972,
+        "placeId": "ChIJ7R7xCfGw2YgRXye2mM8_S5g",
+        "address": "3060 NW 79th St, Miami, FL 33147, USA",
+        "name": "Choice Wigs",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 3.5499704,
+        "calibratedProbability": 3.5499704
+      }, {
+        "latitudeE7": 258456438,
+        "longitudeE7": -802474453,
+        "placeId": "ChIJN9CoCvGw2YgREA-6C4YV-3E",
+        "address": "3078 NW 79th St, Miami, FL 33147, USA",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 2.858778,
+        "calibratedProbability": 2.858778
+      }, {
+        "latitudeE7": 258456153,
+        "longitudeE7": -802473936,
+        "placeId": "ChIJCUd0oPGw2YgRWu1t384Hbq4",
+        "address": "3076 NW 79th St, Miami, FL 33147, USA",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 1.0881016,
+        "calibratedProbability": 1.0881016
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 31,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 258452367,
+        "longitudeE7": -802475545,
+        "placeId": "ChIJu5-5mPGw2YgRphhmwiRL6D8",
+        "address": "3081 NW 78th St, Miami, FL 33147, USA",
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        },
+        "locationConfidence": 32.33918,
+        "calibratedProbability": 32.33918
+      },
+      "duration": {
+        "startTimestamp": "2024-05-28T02:15:35Z",
+        "endTimestamp": "2024-05-28T04:08:53Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "visitConfidence": 79,
+      "otherCandidateLocations": [{
+        "latitudeE7": 258455533,
+        "longitudeE7": -802488182,
+        "placeId": "ChIJLcyevHm52YgR7z--jFSD0M0",
+        "address": "3150 NW 79th St, Miami, FL 33147, USA",
+        "name": "Northside",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 16.881496,
+        "calibratedProbability": 16.881496
+      }, {
+        "latitudeE7": 258456560,
+        "longitudeE7": -802473087,
+        "placeId": "ChIJnezDCvGw2YgRIbZo3GMbC2c",
+        "address": "3074 NW 79th St, Miami, FL 33147, USA",
+        "name": "Blue Magic",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 10.9670725,
+        "calibratedProbability": 10.9670725
+      }, {
+        "latitudeE7": 258456521,
+        "longitudeE7": -802474548,
+        "placeId": "ChIJS3ivCvGw2YgRyvQqmNIUU70",
+        "address": "3078 NW 79th St, Miami, FL 33147, USA",
+        "name": "simplemobile",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 10.454551,
+        "calibratedProbability": 10.454551
+      }, {
+        "latitudeE7": 258456479,
+        "longitudeE7": -802473083,
+        "placeId": "ChIJ0RF7CvGw2YgRjIXC-vYcwuA",
+        "address": "3074 NW 79th St, Miami, FL 33147, USA",
+        "name": "Blue Magic",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 9.878303,
+        "calibratedProbability": 9.878303
+      }, {
+        "latitudeE7": 258456153,
+        "longitudeE7": -802473936,
+        "placeId": "ChIJCUd0oPGw2YgRolyw-sFNsfc",
+        "address": "3076 NW 79th St, Miami, FL 33147, USA",
+        "name": "Inner Ape Tattoo",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 5.0648255,
+        "calibratedProbability": 5.0648255
+      }, {
+        "latitudeE7": 258453640,
+        "longitudeE7": -802491200,
+        "placeId": "ChIJP6tgKfKw2YgRwDN-m6JFmJc",
+        "address": "Gladeview, FL 33147, USA",
+        "name": "Northside Sta \u0026 3150 NW 79 St",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 4.7477303,
+        "calibratedProbability": 4.7477303
+      }, {
+        "latitudeE7": 258448050,
+        "longitudeE7": -802480841,
+        "placeId": "ChIJsSZOkPGw2YgRuv9Tj5WFeIw",
+        "address": "3101 NW 77th St, Miami, FL 33147, USA",
+        "name": "Northside Transit Village",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 2.6501713,
+        "calibratedProbability": 2.6501713
+      }, {
+        "latitudeE7": 258456438,
+        "longitudeE7": -802474453,
+        "placeId": "ChIJN9CoCvGw2YgREA-6C4YV-3E",
+        "address": "3078 NW 79th St, Miami, FL 33147, USA",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 2.475222,
+        "calibratedProbability": 2.475222
+      }, {
+        "latitudeE7": 258456153,
+        "longitudeE7": -802473936,
+        "placeId": "ChIJCUd0oPGw2YgRWu1t384Hbq4",
+        "address": "3076 NW 79th St, Miami, FL 33147, USA",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 1.5196347,
+        "calibratedProbability": 1.5196347
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 32,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 258455802,
+        "longitudeE7": -802500274,
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 258453356,
+        "longitudeE7": -802482261,
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        }
+      },
+      "duration": {
+        "startTimestamp": "2024-05-28T04:08:53Z",
+        "endTimestamp": "2024-05-28T04:24:49Z"
+      },
+      "distance": 437,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 66.60584211349487
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.7398487776517868
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.24274971801787615
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.1812273170799017
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.16709527699276805
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.09671096922829747
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.06792289204895496
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.051875144708901644
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.030525916372425854
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.018371830810792744
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.01765671477187425
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.005582088124356233
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0032210456993198022
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 258453044,
+          "lngE7": -802481536
+        }, {
+          "latE7": 258465690,
+          "lngE7": -802500534
+        }, {
+          "latE7": 258464736,
+          "lngE7": -802501678
+        }, {
+          "latE7": 258453025,
+          "lngE7": -802482223
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJVabnKfKw2YgR-Y0KEXpqTM0",
+          "duration": "108s"
+        }, {
+          "placeId": "ChIJVabnKfKw2YgRX_CKy4_YPpw",
+          "duration": "148s"
+        }, {
+          "placeId": "ChIJGYlLMfKw2YgRGcFfothySq0",
+          "duration": "29s"
+        }, {
+          "placeId": "ChIJs7aBNPKw2YgRvRFY74IHZqE",
+          "duration": "40s"
+        }, {
+          "placeId": "ChIJL96oNPKw2YgR_A8BEzX474A",
+          "duration": "27s"
+        }, {
+          "placeId": "ChIJ285gy_Ow2YgROeUX61JZp4g",
+          "duration": "29s"
+        }, {
+          "placeId": "ChIJj51VyfOw2YgRjKnVhs3wED4",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJv28yyfOw2YgR7jYeQMtFpkQ",
+          "duration": "21s"
+        }, {
+          "placeId": "ChIJs0DSyPOw2YgRCnyrYhI8pCA",
+          "duration": "23s"
+        }, {
+          "placeId": "ChIJce-tyPOw2YgRUjlDC1h8LcM",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJqTQpxvOw2YgRVioXVVm7Dd0",
+          "duration": "34s"
+        }, {
+          "placeId": "ChIJcVaMyPOw2YgRwsKhVvcjeC4",
+          "duration": "65s"
+        }, {
+          "placeId": "ChIJv28yyfOw2YgR7jYeQMtFpkQ",
+          "duration": "23s"
+        }, {
+          "placeId": "ChIJj51VyfOw2YgRjKnVhs3wED4",
+          "duration": "21s"
+        }, {
+          "placeId": "ChIJ285gy_Ow2YgROeUX61JZp4g",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJL96oNPKw2YgR_A8BEzX474A",
+          "duration": "31s"
+        }, {
+          "placeId": "ChIJs7aBNPKw2YgRvRFY74IHZqE",
+          "duration": "27s"
+        }, {
+          "placeId": "ChIJGYlLMfKw2YgRGcFfothySq0",
+          "duration": "40s"
+        }, {
+          "placeId": "ChIJVabnKfKw2YgRXvCKy4_YPpw",
+          "duration": "153s"
+        }, {
+          "placeId": "ChIJVabnKfKw2YgR-I0KEXpqTM0",
+          "duration": "93s"
+        }],
+        "distanceMeters": 677.8951191646095,
+        "travelMode": "WALK",
+        "confidence": 0.9984801093811093
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 258464642,
+          "lngE7": -802503586,
+          "accuracyMeters": 7,
+          "timestamp": "2024-05-28T04:16:57.320Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 258456560,
+        "longitudeE7": -802473087,
+        "placeId": "ChIJnezDCvGw2YgRIbZo3GMbC2c",
+        "address": "3074 NW 79th St, Miami, FL 33147, USA",
+        "name": "Blue Magic",
+        "semanticType": "TYPE_UNKNOWN",
+        "sourceInfo": {
+          "deviceTag": 1367482635
+        },
+        "locationConfidence": 41.457603,
+        "calibratedProbability": 41.457603
+      },
+      "duration": {
+        "startTimestamp": "2024-05-28T04:24:49Z",
+        "endTimestamp": "2024-05-30T04:00:00Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "visitConfidence": 87,
+      "otherCandidateLocations": [{
+        "latitudeE7": 258456521,
+        "longitudeE7": -802474548,
+        "placeId": "ChIJS3ivCvGw2YgRyvQqmNIUU70",
+        "address": "3078 NW 79th St, Miami, FL 33147, USA",
+        "name": "simplemobile",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 17.565516,
+        "calibratedProbability": 17.565516
+      }, {
+        "latitudeE7": 258452367,
+        "longitudeE7": -802475545,
+        "placeId": "ChIJu5-5mPGw2YgRphhmwiRL6D8",
+        "address": "3081 NW 78th St, Miami, FL 33147, USA",
+        "locationConfidence": 12.244486,
+        "calibratedProbability": 12.244486
+      }, {
+        "latitudeE7": 258456153,
+        "longitudeE7": -802473936,
+        "placeId": "ChIJCUd0oPGw2YgRolyw-sFNsfc",
+        "address": "3076 NW 79th St, Miami, FL 33147, USA",
+        "name": "Inner Ape Tattoo",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 8.34032,
+        "calibratedProbability": 8.34032
+      }, {
+        "latitudeE7": 258455533,
+        "longitudeE7": -802488182,
+        "placeId": "ChIJLcyevHm52YgR7z--jFSD0M0",
+        "address": "3150 NW 79th St, Miami, FL 33147, USA",
+        "name": "Northside",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 4.506778,
+        "calibratedProbability": 4.506778
+      }, {
+        "latitudeE7": 258456418,
+        "longitudeE7": -802470972,
+        "placeId": "ChIJ7R7xCfGw2YgRXye2mM8_S5g",
+        "address": "3060 NW 79th St, Miami, FL 33147, USA",
+        "name": "Choice Wigs",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 4.1627126,
+        "calibratedProbability": 4.1627126
+      }, {
+        "latitudeE7": 258456438,
+        "longitudeE7": -802474453,
+        "placeId": "ChIJN9CoCvGw2YgREA-6C4YV-3E",
+        "address": "3078 NW 79th St, Miami, FL 33147, USA",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 3.6231287,
+        "calibratedProbability": 3.6231287
+      }, {
+        "latitudeE7": 258456479,
+        "longitudeE7": -802473083,
+        "placeId": "ChIJ0RF7CvGw2YgRjIXC-vYcwuA",
+        "address": "3074 NW 79th St, Miami, FL 33147, USA",
+        "name": "Blue Magic",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 3.165898,
+        "calibratedProbability": 3.165898
+      }, {
+        "latitudeE7": 258456153,
+        "longitudeE7": -802473936,
+        "placeId": "ChIJCUd0oPGw2YgRWu1t384Hbq4",
+        "address": "3076 NW 79th St, Miami, FL 33147, USA",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 2.318175,
+        "calibratedProbability": 2.318175
+      }, {
+        "latitudeE7": 258448050,
+        "longitudeE7": -802480841,
+        "placeId": "ChIJsSZOkPGw2YgRuv9Tj5WFeIw",
+        "address": "3101 NW 77th St, Miami, FL 33147, USA",
+        "name": "Northside Transit Village",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 1.8470602,
+        "calibratedProbability": 1.8470602
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 41,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

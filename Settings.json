@@ -1,14 +1,14 @@
 {
-  "createdTime": "2024-01-05T10:46:53.306Z",
-  "modifiedTime": "2024-06-01T08:42:46.871Z",
+  "createdTime": "2012-03-30T13:44:48.677Z",
+  "modifiedTime": "2024-05-27T18:19:19.749Z",
   "deviceSettings": [{
-    "deviceTag": -1433484383,
-    "reportingEnabled": false,
+    "deviceTag": 1367482635,
+    "reportingEnabled": true,
     "devicePrettyName": "TMRV075G",
     "platformType": "ANDROID",
-    "deviceCreationTime": "2024-06-01T08:41:56.515Z",
+    "deviceCreationTime": "2024-05-27T18:19:19.749Z",
     "latestLocationReportingSettingChange": {
-      "reportingEnabledModificationTime": "2024-06-01T08:41:56.515Z"
+      "reportingEnabledModificationTime": "2024-05-27T18:19:19.749Z"
     },
     "androidOsLevel": 34,
     "deviceSpec": {
@@ -24,13 +24,35 @@
       "observedPlaceVisitsFor30PercentOfTheLast7d": false
     }
   }, {
-    "deviceTag": 2004194707,
-    "reportingEnabled": false,
+    "deviceTag": 547195445,
+    "reportingEnabled": true,
     "devicePrettyName": "9137W",
     "platformType": "ANDROID",
-    "deviceCreationTime": "2024-05-02T22:29:41.002Z",
+    "deviceCreationTime": "2024-05-14T13:38:47.626Z",
     "latestLocationReportingSettingChange": {
-      "reportingEnabledModificationTime": "2024-05-02T22:29:41.002Z"
+      "reportingEnabledModificationTime": "2024-05-14T21:53:55.200Z"
+    },
+    "androidOsLevel": 31,
+    "deviceSpec": {
+      "manufacturer": "TCL",
+      "brand": "TCL",
+      "product": "9137W",
+      "device": "Luna_8_4G_TMO",
+      "model": "9137W",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": true
+    }
+  }, {
+    "deviceTag": 1810766911,
+    "reportingEnabled": true,
+    "devicePrettyName": "9137W",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-05-02T23:12:06.924Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-05-02T23:12:06.924Z"
     },
     "androidOsLevel": 31,
     "deviceSpec": {
@@ -45,13 +67,35 @@
       "hasSavedTimelineData": true
     }
   }, {
-    "deviceTag": -1335405250,
-    "reportingEnabled": false,
+    "deviceTag": -1074332895,
+    "reportingEnabled": true,
     "devicePrettyName": "SM-A156U",
     "platformType": "ANDROID",
-    "deviceCreationTime": "2024-04-17T02:22:04.800Z",
+    "deviceCreationTime": "2024-04-14T11:38:04.329Z",
     "latestLocationReportingSettingChange": {
-      "reportingEnabledModificationTime": "2024-04-17T02:22:04.800Z"
+      "reportingEnabledModificationTime": "2024-04-14T11:38:04.329Z"
+    },
+    "androidOsLevel": 34,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "a15xsq",
+      "device": "a15x",
+      "model": "SM-A156U",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": true
+    }
+  }, {
+    "deviceTag": 1001317745,
+    "reportingEnabled": true,
+    "devicePrettyName": "SM-A156U",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-04-11T16:51:12.900Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-04-11T16:51:12.900Z"
     },
     "androidOsLevel": 34,
     "deviceSpec": {
@@ -66,13 +110,13 @@
       "hasSavedTimelineData": true
     }
   }, {
-    "deviceTag": -958241500,
-    "reportingEnabled": false,
+    "deviceTag": 123617519,
+    "reportingEnabled": true,
     "devicePrettyName": "9137W",
     "platformType": "ANDROID",
-    "deviceCreationTime": "2024-03-30T03:01:10.768Z",
+    "deviceCreationTime": "2024-03-29T06:06:34.968Z",
     "latestLocationReportingSettingChange": {
-      "reportingEnabledModificationTime": "2024-03-30T03:01:10.768Z"
+      "reportingEnabledModificationTime": "2024-04-05T07:07:50.818Z"
     },
     "androidOsLevel": 31,
     "deviceSpec": {
@@ -84,16 +128,157 @@
       "isLowRam": false
     },
     "deviceActiveness": {
+      "hasSavedTimelineData": false
+    }
+  }, {
+    "deviceTag": -1607844984,
+    "reportingEnabled": true,
+    "devicePrettyName": "BTAB10",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-03-19T07:53:17.654Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-03-19T07:53:17.654Z"
+    },
+    "androidOsLevel": 33,
+    "deviceSpec": {
+      "manufacturer": "VORTEX",
+      "brand": "VORTEX",
+      "product": "VORTEX_BTAB10",
+      "device": "BTAB10",
+      "model": "BTAB10",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": false
+    }
+  }, {
+    "deviceTag": 1825610751,
+    "reportingEnabled": true,
+    "devicePrettyName": "BTAB10",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-03-03T09:00:57.192Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-03-03T09:00:57.192Z"
+    },
+    "androidOsLevel": 33,
+    "deviceSpec": {
+      "manufacturer": "VORTEX",
+      "brand": "VORTEX",
+      "product": "VORTEX_BTAB10",
+      "device": "BTAB10",
+      "model": "BTAB10",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": false
+    }
+  }, {
+    "deviceTag": 380124639,
+    "reportingEnabled": true,
+    "devicePrettyName": "G40",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-01-05T12:39:29.551Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-01-05T12:39:29.551Z"
+    },
+    "androidOsLevel": 31,
+    "deviceSpec": {
+      "manufacturer": "BLU",
+      "brand": "BLU",
+      "product": "G40",
+      "device": "G0790UU",
+      "model": "G40",
+      "isLowRam": false
+    }
+  }, {
+    "deviceTag": 228777041,
+    "reportingEnabled": true,
+    "devicePrettyName": "X63Max",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2023-10-30T18:30:35.546Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2023-10-30T18:30:35.546Z"
+    },
+    "androidOsLevel": 33,
+    "deviceSpec": {
+      "manufacturer": "Sky_Devices",
+      "brand": "Sky_Devices",
+      "product": "X63Max",
+      "device": "X63Max",
+      "model": "X63Max",
+      "isLowRam": true
+    }
+  }, {
+    "deviceTag": -2071452796,
+    "reportingEnabled": true,
+    "devicePrettyName": "SM-A716U",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2023-10-18T20:30:01.844Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-03-03T09:00:58.505Z"
+    },
+    "androidOsLevel": 33,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "a71xqsq",
+      "device": "a71xq",
+      "model": "SM-A716U",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": false
+    }
+  }, {
+    "deviceTag": -2118813836,
+    "reportingEnabled": true,
+    "devicePrettyName": "SM-A037U",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2023-06-04T22:00:56.594Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2023-06-04T22:00:56.594Z"
+    },
+    "androidOsLevel": 33,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "a03susq",
+      "device": "a03su",
+      "model": "SM-A037U",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
       "hasSavedTimelineData": true
     }
   }, {
-    "deviceTag": 190276929,
-    "reportingEnabled": false,
+    "deviceTag": -178981323,
+    "reportingEnabled": true,
+    "devicePrettyName": "SM-A037U",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2023-05-30T20:08:02.322Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2023-05-30T20:08:02.322Z"
+    },
+    "androidOsLevel": 33,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "a03susq",
+      "device": "a03su",
+      "model": "SM-A037U",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": false
+    }
+  }, {
+    "deviceTag": 1630940409,
+    "reportingEnabled": true,
     "devicePrettyName": "SM-A107M",
     "platformType": "ANDROID",
-    "deviceCreationTime": "2024-01-05T10:46:53.306Z",
+    "deviceCreationTime": "2023-01-11T22:45:28.657Z",
     "latestLocationReportingSettingChange": {
-      "reportingEnabledModificationTime": "2024-01-05T10:46:53.306Z"
+      "reportingEnabledModificationTime": "2023-01-11T22:45:28.657Z"
     },
     "androidOsLevel": 30,
     "deviceSpec": {
@@ -105,46 +290,61 @@
       "isLowRam": false
     },
     "deviceActiveness": {
-      "hasSavedTimelineData": false
+      "hasSavedTimelineData": true
     }
   }],
-  "hasReportedLocations": false,
-  "hasSetRetention": true,
-  "storeVisitControl": {
-    "enabled": true,
-    "updateTime": "2024-05-02T08:11:28.260820293Z"
-  },
-  "timelineEditUploadsControl": {
-    "enabled": true,
-    "updateTime": "2024-03-31T01:32:21.009521321Z"
-  },
+  "hasReportedLocations": true,
+  "hasSetRetention": false,
   "encryptedBackupsControls": {
-    "190276929": {
+    "123617519": {
       "enabled": false
     },
-    "2004194707": {
-      "enabled": true,
-      "updateTime": "2024-05-02T23:58:18.528928742Z"
+    "228777041": {
+      "enabled": false
     },
-    "-1433484383": {
-      "enabled": true,
-      "updateTime": "2024-06-01T08:42:46.871323002Z"
+    "-2071452796": {
+      "enabled": false
     },
-    "-1335405250": {
-      "enabled": true,
-      "updateTime": "2024-04-24T08:31:29.648949757Z"
+    "1001317745": {
+      "enabled": false
     },
-    "-958241500": {
-      "enabled": true,
-      "updateTime": "2024-03-31T01:34:29.644209453Z"
+    "-2118813836": {
+      "enabled": false
+    },
+    "1630940409": {
+      "enabled": false
+    },
+    "-1074332895": {
+      "enabled": false
+    },
+    "1367482635": {
+      "enabled": false
+    },
+    "1810766911": {
+      "enabled": false
+    },
+    "-178981323": {
+      "enabled": false
+    },
+    "1825610751": {
+      "enabled": false
+    },
+    "380124639": {
+      "enabled": false
+    },
+    "-1607844984": {
+      "enabled": false
+    },
+    "547195445": {
+      "enabled": false
     }
   },
   "retentionControl": {
-    "retentionWindowDays": 2147483647,
-    "updateTime": "2024-03-31T01:32:42.617411668Z"
+    "retentionWindowDays": 2147483647
   },
   "timelineEnabled": true,
+  "timelineDeletionTime": "2024-06-06T02:20:11.139Z",
   "latestTimelineSettingChange": {
-    "timelineEnabledModificationTime": "2024-04-23T03:08:27.446Z"
+    "timelineEnabledModificationTime": "2024-05-14T21:52:03.418Z"
   }
 }
