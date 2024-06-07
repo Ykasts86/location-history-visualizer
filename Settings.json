@@ -1,0 +1,150 @@
+{
+  "createdTime": "2024-01-05T10:46:53.306Z",
+  "modifiedTime": "2024-06-01T08:42:46.871Z",
+  "deviceSettings": [{
+    "deviceTag": -1433484383,
+    "reportingEnabled": false,
+    "devicePrettyName": "TMRV075G",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-06-01T08:41:56.515Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-06-01T08:41:56.515Z"
+    },
+    "androidOsLevel": 34,
+    "deviceSpec": {
+      "manufacturer": "Wingtech",
+      "brand": "T-Mobile",
+      "product": "CypressPoint",
+      "device": "CypressPoint",
+      "model": "TMRV075G",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": false
+    }
+  }, {
+    "deviceTag": 2004194707,
+    "reportingEnabled": false,
+    "devicePrettyName": "9137W",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-05-02T22:29:41.002Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-05-02T22:29:41.002Z"
+    },
+    "androidOsLevel": 31,
+    "deviceSpec": {
+      "manufacturer": "TCL",
+      "brand": "TCL",
+      "product": "9137W",
+      "device": "Luna_8_4G_TMO",
+      "model": "9137W",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true
+    }
+  }, {
+    "deviceTag": -1335405250,
+    "reportingEnabled": false,
+    "devicePrettyName": "SM-A156U",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-04-17T02:22:04.800Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-04-17T02:22:04.800Z"
+    },
+    "androidOsLevel": 34,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "a15xsq",
+      "device": "a15x",
+      "model": "SM-A156U",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true
+    }
+  }, {
+    "deviceTag": -958241500,
+    "reportingEnabled": false,
+    "devicePrettyName": "9137W",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-03-30T03:01:10.768Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-03-30T03:01:10.768Z"
+    },
+    "androidOsLevel": 31,
+    "deviceSpec": {
+      "manufacturer": "TCL",
+      "brand": "TCL",
+      "product": "9137W",
+      "device": "Luna_8_4G_TMO",
+      "model": "9137W",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true
+    }
+  }, {
+    "deviceTag": 190276929,
+    "reportingEnabled": false,
+    "devicePrettyName": "SM-A107M",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-01-05T10:46:53.306Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-01-05T10:46:53.306Z"
+    },
+    "androidOsLevel": 30,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "a10sub",
+      "device": "a10s",
+      "model": "SM-A107M",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": false
+    }
+  }],
+  "hasReportedLocations": false,
+  "hasSetRetention": true,
+  "storeVisitControl": {
+    "enabled": true,
+    "updateTime": "2024-05-02T08:11:28.260820293Z"
+  },
+  "timelineEditUploadsControl": {
+    "enabled": true,
+    "updateTime": "2024-03-31T01:32:21.009521321Z"
+  },
+  "encryptedBackupsControls": {
+    "190276929": {
+      "enabled": false
+    },
+    "2004194707": {
+      "enabled": true,
+      "updateTime": "2024-05-02T23:58:18.528928742Z"
+    },
+    "-1433484383": {
+      "enabled": true,
+      "updateTime": "2024-06-01T08:42:46.871323002Z"
+    },
+    "-1335405250": {
+      "enabled": true,
+      "updateTime": "2024-04-24T08:31:29.648949757Z"
+    },
+    "-958241500": {
+      "enabled": true,
+      "updateTime": "2024-03-31T01:34:29.644209453Z"
+    }
+  },
+  "retentionControl": {
+    "retentionWindowDays": 2147483647,
+    "updateTime": "2024-03-31T01:32:42.617411668Z"
+  },
+  "timelineEnabled": true,
+  "latestTimelineSettingChange": {
+    "timelineEnabledModificationTime": "2024-04-23T03:08:27.446Z"
+  }
+}
